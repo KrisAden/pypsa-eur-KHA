@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Report considarations.md",
+                "file": "GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Report considarations"
+              "title": "GitHub"
             }
           }
         ]
@@ -144,13 +144,23 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled"
             }
+          },
+          {
+            "id": "f40d246b05b8522a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,6 +178,7 @@
   },
   "active": "93098df586288840",
   "lastOpenFiles": [
+    "Report considarations.md",
     "Cluster usage.md",
     "Coding.md",
     "data/entsoegridkit/README.md",
@@ -204,7 +215,6 @@
     "Clippings/Obsidian and overleaf - Help - Obsidian Forum.md",
     "cluster_usage.md",
     "Zeotoro.md",
-    "Report considarations.md",
     "Clippings/Is Jeskai the Next Step For Aggro.md",
     "Clippings/Optimal heterogeneity in a simplified highly renewable European electricity system.md",
     "Clippings/Lagrange multiplier - Wikipedia.md",
