@@ -1,0 +1,1 @@
+From what i see the easiest thing to do is to  use Obsidian exclusively as a note-taking and structuring tool and then write directly in OverLeaf. Therefore this page will in the future become a place to copy and paste usefull LaTEX templates to use in overleaf
