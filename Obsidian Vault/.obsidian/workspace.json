@@ -11,12 +11,14 @@
             "id": "93098df586288840",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "File sources/cluster_usage.pdf"
+                "file": "Cluster usage.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "cluster_usage"
+              "icon": "lucide-file",
+              "title": "Cluster usage"
             }
           }
         ]
@@ -110,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File sources/cluster_usage.pdf",
+                "file": "Cluster usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cluster_usage"
+              "title": "Outgoing links from Cluster usage"
             }
           },
           {
@@ -178,26 +180,26 @@
   },
   "active": "93098df586288840",
   "lastOpenFiles": [
-    "File sources/Zhu m.fl. - 2020 - Impact of climatic, technical and economic uncertainties on the optimal design of a coupled fossil-f.pdf",
     "Obsidian tips and tricks.md",
+    "GitHub.md",
+    "Report considarations.md",
+    "File sources/Misc Files/cluster_usage.pdf",
+    "File sources/Misc Files",
+    "File sources/Zhu m.fl. - 2020 - Impact of climatic, technical and economic uncertainties on the optimal design of a coupled fossil-f.pdf",
     "PyPSA-EUR.md",
     "Fabian Neumann.md",
     "LaTEX.md",
     "Main page.md",
     "File sources/Lau m.fl. - 2024 - Measuring exploration evaluation of modelling to generate alternatives methods in capacity expansio.pdf",
-    "File sources/Video_Cloud_AU_PyPSA_Install.mp4",
+    "File sources/Misc Files/Video_Cloud_AU_PyPSA_Install.mp4",
     "File sources/Scientific papers",
     "Untitled",
-    "Report considarations.md",
-    "GitHub.md",
     "Cluster usage.md",
     "Coding.md",
     "data/entsoegridkit/README.md",
     "rules/validate.smk",
     "rules/solve_myopic.smk",
     "rules/solve_perfect.smk",
-    "rules/solve_overnight.smk",
-    "rules/retrieve.smk",
     "doc/img/validation_seasonal_operation_area_elec_s_37_ec_lv1.0_Ept.png",
     "doc/img/underwater_hist.png",
     "doc/img/validation_production_bar_elec_s_37_ec_lv1.0_Ept.png",
