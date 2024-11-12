@@ -19,3 +19,8 @@ current add-ins are :
 - [ ] Web clipper
 - [ ] Dataview
 - [ ] Advanced tables
+
+
+[[Zhu m.fl. - 2020 - Impact of climatic, technical and economic uncertainties on the optimal design of a coupled fossil-f.pdf]]
+
+\cite{zhuImpactClimaticTechnical2020}
