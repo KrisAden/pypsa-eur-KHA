@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Cluster usage"
             }
+          },
+          {
+            "id": "e284b9b7923848ac",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cluster usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cluster usage"
+              "title": "Outgoing links"
             }
           },
           {
@@ -178,8 +188,15 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "93098df586288840",
+  "active": "e284b9b7923848ac",
   "lastOpenFiles": [
+    "Cluster usage.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project",
     "Obsidian tips and tricks.md",
     "GitHub.md",
     "Report considarations.md",
@@ -194,12 +211,10 @@
     "File sources/Misc Files/Video_Cloud_AU_PyPSA_Install.mp4",
     "File sources/Scientific papers",
     "Untitled",
-    "Cluster usage.md",
     "Coding.md",
     "data/entsoegridkit/README.md",
     "rules/validate.smk",
     "rules/solve_myopic.smk",
-    "rules/solve_perfect.smk",
     "doc/img/validation_seasonal_operation_area_elec_s_37_ec_lv1.0_Ept.png",
     "doc/img/underwater_hist.png",
     "doc/img/validation_production_bar_elec_s_37_ec_lv1.0_Ept.png",
@@ -221,9 +236,6 @@
     "Clippings/Is Jeskai the Next Step For Aggro.md",
     "Clippings/Optimal heterogeneity in a simplified highly renewable European electricity system.md",
     "Clippings/Lagrange multiplier - Wikipedia.md",
-    "Clippings/Getting Started with PyPSA-Eur - Part 1.md",
-    "PyPSA-Eur/Getting Started with PyPSA-Eur - Part 1.md",
-    "math mode.md",
     "Title.canvas"
   ]
 }
