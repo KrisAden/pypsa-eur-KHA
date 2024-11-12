@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub.md",
+                "file": "Main page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub"
+              "title": "Main page"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub.md",
+                "file": "Main page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GitHub"
+              "title": "Outgoing links from Main page"
             }
           },
           {
@@ -179,7 +179,12 @@
   },
   "active": "93098df586288840",
   "lastOpenFiles": [
+    "File sources/Scientific papers",
+    "Untitled",
+    "Obsidian tips and tricks.md",
+    "PyPSA-EUR.md",
     "Report considarations.md",
+    "GitHub.md",
     "Cluster usage.md",
     "Coding.md",
     "data/entsoegridkit/README.md",
@@ -192,7 +197,6 @@
     "rules/development.smk",
     "rules/solve_electricity.smk",
     "rules/common.smk",
-    "rules/collect.smk",
     "doc/img/validation_seasonal_operation_area_elec_s_37_ec_lv1.0_Ept.png",
     "doc/img/underwater_hist.png",
     "doc/img/validation_production_bar_elec_s_37_ec_lv1.0_Ept.png",
@@ -204,15 +208,12 @@
     "doc/img/sarah.png",
     "doc/img/results.png",
     "README.md",
-    "Clippings/How to Backup Your Obsidian Vault Using GitHub.md",
-    "Obsidian tips and tricks.md",
+    "Unsorted files/How to Backup Your Obsidian Vault Using GitHub.md",
     "Clippings/You all NEED these Obsidian community plugins.md",
     "Clippings/Obsidian collaboration with VS code.md",
     "Main page.md",
     "Clippings/An Updated Academic Workflow Zotero & Obsidian.md",
     "LaTEX.md",
-    "GitHub.md",
-    "PyPSA-EUR.md",
     "Clippings/Obsidian and overleaf - Help - Obsidian Forum.md",
     "cluster_usage.md",
     "Zeotoro.md",
