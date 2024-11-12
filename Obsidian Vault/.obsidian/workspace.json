@@ -174,11 +174,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "latex-ocr:LatexOCR": false
     }
   },
   "active": "93098df586288840",
   "lastOpenFiles": [
+    "File sources/Lau m.fl. - 2024 - Measuring exploration evaluation of modelling to generate alternatives methods in capacity expansio.pdf",
+    "Main page.md",
+    "File sources/Video_Cloud_AU_PyPSA_Install.mp4",
     "File sources/Scientific papers",
     "Untitled",
     "Obsidian tips and tricks.md",
@@ -194,9 +198,6 @@
     "rules/solve_overnight.smk",
     "rules/retrieve.smk",
     "rules/postprocess.smk",
-    "rules/development.smk",
-    "rules/solve_electricity.smk",
-    "rules/common.smk",
     "doc/img/validation_seasonal_operation_area_elec_s_37_ec_lv1.0_Ept.png",
     "doc/img/underwater_hist.png",
     "doc/img/validation_production_bar_elec_s_37_ec_lv1.0_Ept.png",
@@ -211,7 +212,6 @@
     "Unsorted files/How to Backup Your Obsidian Vault Using GitHub.md",
     "Clippings/You all NEED these Obsidian community plugins.md",
     "Clippings/Obsidian collaboration with VS code.md",
-    "Main page.md",
     "Clippings/An Updated Academic Workflow Zotero & Obsidian.md",
     "LaTEX.md",
     "Clippings/Obsidian and overleaf - Help - Obsidian Forum.md",
