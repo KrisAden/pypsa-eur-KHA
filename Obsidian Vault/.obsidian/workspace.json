@@ -173,9 +173,7 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "latex-ocr:LatexOCR": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "93098df586288840",
