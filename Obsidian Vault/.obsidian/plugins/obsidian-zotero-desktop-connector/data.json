@@ -7,8 +7,8 @@
   "citeFormats": [
     {
       "name": "cite",
-      "format": "biblatex",
-      "command": "autocite"
+      "format": "latex",
+      "command": "cite"
     }
   ],
   "exportFormats": [

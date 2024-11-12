@@ -15,3 +15,4 @@ This here makes a list of other notes that refers to the note i am currently in
 - [x] How to use Obsidian for source management
 - [ ] In a litterature section i need all the papers that i have seen so far that might be relevant in one place 
 
+
