@@ -41,6 +41,8 @@ How can i get closer to the cost optimal front through interpolation of my sampl
 
 How have they sampled their solution space?
 
+Have you considered OTP?
+
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
