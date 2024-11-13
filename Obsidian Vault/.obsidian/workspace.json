@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cluster usage.md",
+                "file": "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cluster usage"
+              "title": "The Easiest Way to Start Taking Notes"
+            }
+          },
+          {
+            "id": "23aa3fbea4bc47d4",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,19 +188,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93098df586288840",
+  "active": "23aa3fbea4bc47d4",
   "lastOpenFiles": [
-    "LaTEX.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Cluster usage.md",
+    "LaTEX.md",
     "File sources/Chertow - 2007 - “Uncovering” Industrial Symbiosis.pdf",
     "File sources/Chertow - 2007 - “Uncovering” Industrial Symbiosis 1.pdf",
     "Obsidian tips and tricks.md",
     "Report considarations.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project",
     "GitHub.md",
     "File sources/Misc Files/cluster_usage.pdf",
