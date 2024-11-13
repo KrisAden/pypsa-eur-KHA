@@ -20,31 +20,8 @@
               "icon": "lucide-file",
               "title": "Obsidian tips and tricks"
             }
-          },
-          {
-            "id": "e31831868f4ad3be",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
-            }
-          },
-          {
-            "id": "0e690f6e4a1ad6c1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,11 +173,13 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e690f6e4a1ad6c1",
+  "active": "93098df586288840",
   "lastOpenFiles": [
+    "File sources/Chertow - 2007 - “Uncovering” Industrial Symbiosis.pdf",
     "Obsidian tips and tricks.md",
     "Report considarations.md",
     "Cluster usage.md",
@@ -246,7 +225,6 @@
     "Zeotoro.md",
     "Clippings/Is Jeskai the Next Step For Aggro.md",
     "Clippings/Optimal heterogeneity in a simplified highly renewable European electricity system.md",
-    "Clippings/Lagrange multiplier - Wikipedia.md",
     "Title.canvas"
   ]
 }
