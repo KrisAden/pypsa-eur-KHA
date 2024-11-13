@@ -11,14 +11,10 @@
             "id": "23aa3fbea4bc47d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main page.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Main page"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -194,13 +190,13 @@
   },
   "active": "a6c0ef1985a12d55",
   "lastOpenFiles": [
+    "Main page.md",
+    "Martha presentation 13-11-24.md",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
     "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems 1.pdf",
     "File sources/Schyska m.fl. - 2021 - The sensitivity of power system expansion models.pdf",
-    "Martha presentation 13-11-24.md",
     "File sources/Hörsch and Brown - 2017 - The role of spatial scale in joint optimisations of generation and transmission for European highly.pdf",
     "PyPSA-EUR.md",
-    "Main page.md",
     "File sources/Misc Files/241113_PyPSA3_MartaVictoria_ModernPyPSAapplications.pdf",
     "Obsidian tips and tricks.md",
     "Cluster usage.md",
@@ -217,7 +213,6 @@
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project",
     "File sources/Misc Files/cluster_usage.pdf",
-    "File sources/Misc Files",
     "Fabian Neumann.md",
     "Coding.md",
     "data/entsoegridkit/README.md",
