@@ -39,9 +39,10 @@ Is this a good reward function for optimal portfolio theory?
 How can i get closer to the cost optimal front through interpolation of my samples?
 - Which sampling techniques are good to use for interpolation of high-dimensional systems?
 
-[]
+How have they sampled their solution space?
 
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
+
 
