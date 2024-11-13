@@ -30,5 +30,9 @@ Robustness of the model to choice of weather year can be seen in [[Gøtske m.fl.
 *The Gini coeficcient is a measure of inequality!*
 [[Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf]]
 
+Is this a good reward function for optimal portfolio theory?
+
+How can i get closer to the cost optimal front through interpolation of my samples?
+- W
 
 
