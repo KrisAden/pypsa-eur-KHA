@@ -10,6 +10,9 @@ Interior point methods moves through the interior of the solution space to find 
 
 both Gurobi and highs are based on these methods, but Gurobi has more "tweaks" and weights to the system that allows it to be faster and more robust. This is probably based on experience.
 
+an alternative method to try and avoid be trapped in local minima is used in [[Zeyen m.fl. - 2023 - Endogenous learning for green hydrogen in a sector-coupled energy model for Europe.pdf]]
+
+
 **Spatial resolution**
 
 a good jump-off point is to begin with
@@ -27,12 +30,18 @@ Three hours seems to be the minimum for producing close results  and solar becom
 
 Robustness of the model to choice of weather year can be seen in [[Gøtske m.fl. - 2024 - Designing a sector-coupled European energy system robust to 60 years of historical weather data.pdf]]
 
+
 *The Gini coeficcient is a measure of inequality!*
 [[Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf]]
 
 Is this a good reward function for optimal portfolio theory?
 
 How can i get closer to the cost optimal front through interpolation of my samples?
-- W
+- Which sampling techniques are good to use for interpolation of high-dimensional systems?
 
+[]
+
+```dataview
+list from [[]] and !outgoing([[]])
+```
 
