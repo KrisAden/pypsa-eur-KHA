@@ -16,5 +16,3 @@ This here makes a list of other notes that refers to the note i am currently in
 - [ ] In a litterature section i need all the papers that i have seen so far that might be relevant in one place 
 
 [[Lau m.fl. - 2024 - Measuring exploration evaluation of modelling to generate alternatives methods in capacity expansio.pdf]]
-
-\cite{lauMeasuringExplorationEvaluation2024}
