@@ -10,3 +10,15 @@ Interior point methods moves through the interior of the solution space to find 
 
 both Gurobi and highs are based on these methods, but Gurobi has more "tweaks" and weights to the system that allows it to be faster and more robust. This is probably based on experience.
 
+**Spatial resolution**
+
+a good jump-off point is to begin with
+$$
+n=30
+$$
+as this means one node pr. country. in general the optimal spatial resolution depends upon the purpose of the research. [[Hörsch and Brown - 2017 - The role of spatial scale in joint optimisations of generation and transmission for European highly.pdf]]
+
+
+
+
+
