@@ -18,6 +18,9 @@ n=30
 $$
 as this means one node pr. country. in general the optimal spatial resolution depends upon the purpose of the research. [[Hörsch and Brown - 2017 - The role of spatial scale in joint optimisations of generation and transmission for European highly.pdf]]
 
+**Temporal resolution**
+as for temporal resolution hourly for a year is a good idea [[Schyska m.fl. - 2021 - The sensitivity of power system expansion models.pdf]]
+This has been determined thorugh sensitivity analysis
 
 
 
