@@ -4,4 +4,9 @@
 
 This paper contains information and proof of what spatial- and temporal-resolutions are necessary to produce accurate results. [[241113_PyPSA3_MartaVictoria_ModernPyPSAapplications.pdf]]
 
-The simplex algorithm cheks all the vertexes of the multidimenional solution space as we know that the global minimum will be situated on a vertex. In this way it iterates like the gradient method over all the vertexes.
+The simplex algorithm checks all the vertexes of the multidimensional solution space as we know that the global minimum will be situated on a vertex. In this way it iterates like the gradient method over all the vertexes. This only works for convex solution spaces.
+
+Interior point methods moves through the interior of the solution space to find the minimum.
+
+both Gurobi and highs are based on these methods, but Gurobi has more "tweaks" and weights to the system that allows it to be faster and more robust. This is probably based on experience.
+
