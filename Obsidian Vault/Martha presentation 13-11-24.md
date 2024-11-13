@@ -20,7 +20,8 @@ as this means one node pr. country. in general the optimal spatial resolution de
 
 **Temporal resolution**
 as for temporal resolution hourly for a year is a good idea [[Schyska m.fl. - 2021 - The sensitivity of power system expansion models.pdf]]
-This has been determined thorugh sensitivity analysis
+This has been determined through sensitivity analysis
+Three hours seems to be the minimum for producing close results  and solar becomes too smooth
 
 
 
