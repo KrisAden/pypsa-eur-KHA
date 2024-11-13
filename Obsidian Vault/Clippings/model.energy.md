@@ -8,6 +8,8 @@ description:
 tags:
   - "clippings"
 ---
+# This is a simplified energy system model
+
 Constant electricity demand \[MW\] Demand should be large enough for utility-scale assets but small enough to neglect land availability constraints
 
 Technology assumption scenario Individual cost assumptions can be changed below under "advanced assumption settings". 2030 is the default year for technology assumptions because this is a reasonable time by which green products can be scaled up to large volumes.
