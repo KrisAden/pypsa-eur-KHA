@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Martha presentation 13-11-24.md",
+                "file": "Clippings/model.energy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Martha presentation 13-11-24"
+              "title": "model.energy"
             }
           }
         ],
@@ -190,8 +190,10 @@
   },
   "active": "a6c0ef1985a12d55",
   "lastOpenFiles": [
-    "Main page.md",
     "Martha presentation 13-11-24.md",
+    "Clippings/model.energy.md",
+    "Clippings",
+    "Main page.md",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
     "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems 1.pdf",
     "File sources/Schyska m.fl. - 2021 - The sensitivity of power system expansion models.pdf",
@@ -212,7 +214,6 @@
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project",
-    "File sources/Misc Files/cluster_usage.pdf",
     "Fabian Neumann.md",
     "Coding.md",
     "data/entsoegridkit/README.md",
