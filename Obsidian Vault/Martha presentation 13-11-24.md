@@ -25,6 +25,8 @@ Three hours seems to be the minimum for producing close results  and solar becom
 
 *What am i losing by not including sector coupling?*
 
+Robustness of the model to choice of weather year can be seen in [[Gøtske m.fl. - 2024 - Designing a sector-coupled European energy system robust to 60 years of historical weather data.pdf]]
+
 *The Gini coeficcient is a measure of inequality!*
 [[Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf]]
 
