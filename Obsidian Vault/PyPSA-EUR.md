@@ -13,3 +13,6 @@ tags:
 
 videos can also be imbedded by typing '![]()' with the link inside the bracket.
 
+```dataview
+list from [[]] and !outgoing([[]])
+```
