@@ -23,6 +23,9 @@ as for temporal resolution hourly for a year is a good idea [[Schyska m.fl. - 20
 This has been determined through sensitivity analysis
 Three hours seems to be the minimum for producing close results  and solar becomes too smooth
 
+*What happens if you disable sector coupling to the electrical model?*
+
+
 
 
 
