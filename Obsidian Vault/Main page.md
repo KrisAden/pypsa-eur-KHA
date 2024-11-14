@@ -1,3 +1,10 @@
+# List of disciplines
+- [ ] PyPSA-EUR documentation and implementation
+- [ ] AU Prime usage
+- [ ] Work documentation
+- [ ] Github repository management
+- [ ] 
+
 
 # Dataview
 ```dataview
