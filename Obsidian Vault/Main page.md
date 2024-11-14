@@ -25,4 +25,8 @@ $$
 
 G=\frac{A}{(A+B)}
 $$
-![[Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf]]
+![[Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf#page=7]]
+
+# Interpolation
+
+As for interpolating results close to the cost optimal front this might prove very difficult. MArtha recommended looking up something called "Coarse interpolation"

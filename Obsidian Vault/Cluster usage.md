@@ -4,7 +4,6 @@ Alexander Kies has made a guide on how to use the cluster. The mail and video ca
 
 ![[Video_Cloud_AU_PyPSA_Install.mp4]]
 
-\cite{chertowUncoveringIndustrialSymbiosis2007a}
 
 
 
