@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +177,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "286ef521745bfa20",
+  "active": "10577f670cae75a2",
   "lastOpenFiles": [
+    "PyPSA-EUR.md",
     "File sources/Victoria m.fl. - 2019 - The role of storage technologies throughout the decarbonisation of the sector-coupled European energ.pdf",
     "File sources/Tranberg m.fl. - 2018 - Flow-based nodal cost allocation in a heterogeneous highly renewable European electricity network.pdf",
     "File sources/Misc Files/Homework 05 KHA 201905079.pdf",
@@ -189,7 +191,6 @@
     "GitHub.md",
     "LaTEX.md",
     "Martha presentation 13-11-24.md",
-    "PyPSA-EUR.md",
     "Report considarations.md",
     "Main page.md",
     "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf",
@@ -202,7 +203,6 @@
     "Excalidraw/Drawing 2024-11-14 12.35.53.excalidraw.md",
     "Excalidraw",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "File sources/Zeyen m.fl. - 2023 - Endogenous learning for green hydrogen in a sector-coupled energy model for Europe.pdf",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
