@@ -25,14 +25,12 @@
             "id": "1025a2a0d3342572",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Martha presentation 13-11-24.md",
-                "mode": "source",
-                "source": false
+                "file": "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Martha presentation 13-11-24"
+              "icon": "lucide-file-text",
+              "title": "Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems"
             }
           }
         ],
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Martha presentation 13-11-24.md",
+                "file": "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Martha presentation 13-11-24"
+              "title": "Backlinks for Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems"
             }
           },
           {
@@ -127,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Martha presentation 13-11-24.md",
+                "file": "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Martha presentation 13-11-24"
+              "title": "Outgoing links from Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems"
             }
           },
           {
@@ -192,8 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95023af587303dde",
+  "active": "1025a2a0d3342572",
   "lastOpenFiles": [
+    "File sources/Schyska m.fl. - 2021 - The sensitivity of power system expansion models.pdf",
+    "Martha presentation 13-11-24.md",
     "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf",
     "Modelling near optimal solutions.md",
     "Main page.md",
@@ -209,7 +209,6 @@
     "Coding.md",
     "GitHub.md",
     "LaTEX.md",
-    "Martha presentation 13-11-24.md",
     "Pasted image 20241114125753.png",
     "File sources/Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system.pdf",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
