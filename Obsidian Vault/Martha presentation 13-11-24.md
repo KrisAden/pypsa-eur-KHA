@@ -46,8 +46,6 @@ Have you considered OTP?
 coarse of interpolation
 
 
-```dataview
-list from [[]] and !outgoing([[]])
-```
+
 
 

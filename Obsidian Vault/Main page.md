@@ -30,3 +30,5 @@ $$
 # Interpolation
 
 As for interpolating results close to the cost optimal front this might prove very difficult. MArtha recommended looking up something called "Coarse interpolation"
+
+[[Obsidian tips and tricks]]

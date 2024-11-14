@@ -1,4 +1,3 @@
-[[Main page]]
 
 Pypsa-Eur. MAn skal bruge et stykke tid til at få det til at kører på clusteret (Ricardo Fernandez?)
 3 timers opløsning på tid. testede med ugeintervaller. Anders og Lucas har skrevet en artikkel (energi i Nordsøen)
