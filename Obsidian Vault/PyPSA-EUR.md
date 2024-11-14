@@ -17,3 +17,11 @@ Basic model energy modelling and cost modelling could be as described on pages 1
 
 ![[Homework 05 KHA 201905079.pdf#page=2]]
 
+[[Tranberg m.fl. - 2018 - Flow-based nodal cost allocation in a heterogeneous highly renewable European electricity network.pdf]]
+
+System costs could probably be sourced from:
+
+[[Victoria m.fl. - 2019 - The role of storage technologies throughout the decarbonisation of the sector-coupled European energ.pdf]]
+
+
+

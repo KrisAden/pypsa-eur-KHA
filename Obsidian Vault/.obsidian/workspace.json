@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Report considarations.md",
+                "file": "PyPSA-EUR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Report considarations"
+              "title": "Outgoing links from PyPSA-EUR"
             }
           },
           {
@@ -155,12 +155,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +176,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10577f670cae75a2",
+  "active": "286ef521745bfa20",
   "lastOpenFiles": [
+    "File sources/Victoria m.fl. - 2019 - The role of storage technologies throughout the decarbonisation of the sector-coupled European energ.pdf",
     "File sources/Tranberg m.fl. - 2018 - Flow-based nodal cost allocation in a heterogeneous highly renewable European electricity network.pdf",
     "File sources/Misc Files/Homework 05 KHA 201905079.pdf",
     "File sources/Misc Files/Homework 05 KHA 201905079.pptx",
@@ -202,7 +203,6 @@
     "Excalidraw",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "File sources/Zeyen m.fl. - 2023 - Endogenous learning for green hydrogen in a sector-coupled energy model for Europe.pdf",
-    "File sources/Gøtske m.fl. - 2024 - Designing a sector-coupled European energy system robust to 60 years of historical weather data.pdf",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
