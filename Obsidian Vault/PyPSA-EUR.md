@@ -12,3 +12,5 @@ tags:
 ![](https://www.youtube.com/watch?v=ty47YU1_eeQ)
 
 [[Martha presentation 13-11-24]]
+
+Basic model energy modelling and cost modelling 

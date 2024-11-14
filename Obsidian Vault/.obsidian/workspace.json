@@ -11,10 +11,14 @@
             "id": "10577f670cae75a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "PyPSA-EUR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PyPSA-EUR"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PyPSA-EUR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for PyPSA-EUR"
             }
           },
           {
@@ -173,15 +178,15 @@
   },
   "active": "10577f670cae75a2",
   "lastOpenFiles": [
+    "Obsidian tips and tricks.md",
+    "Cluster usage.md",
     "Coding.md",
     "GitHub.md",
     "LaTEX.md",
     "Martha presentation 13-11-24.md",
     "PyPSA-EUR.md",
     "Report considarations.md",
-    "Obsidian tips and tricks.md",
     "Main page.md",
-    "Cluster usage.md",
     "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf",
     "Pasted image 20241114125753.png",
     "File sources/Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system.pdf",
