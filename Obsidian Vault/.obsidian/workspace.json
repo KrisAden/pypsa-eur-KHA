@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelling near optimal solutions.md",
+                "file": "Martha presentation 13-11-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelling near optimal solutions"
+              "title": "Martha presentation 13-11-24"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelling near optimal solutions.md",
+                "file": "Martha presentation 13-11-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Modelling near optimal solutions"
+              "title": "Backlinks for Martha presentation 13-11-24"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modelling near optimal solutions.md",
+                "file": "Martha presentation 13-11-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Modelling near optimal solutions"
+              "title": "Outgoing links from Martha presentation 13-11-24"
             }
           },
           {
@@ -192,10 +192,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1025a2a0d3342572",
+  "active": "95023af587303dde",
   "lastOpenFiles": [
-    "Main page.md",
+    "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf",
     "Modelling near optimal solutions.md",
+    "Main page.md",
     "Report considarations.md",
     "PyPSA-EUR.md",
     "File sources/Victoria m.fl. - 2019 - The role of storage technologies throughout the decarbonisation of the sector-coupled European energ.pdf",
@@ -209,7 +210,6 @@
     "GitHub.md",
     "LaTEX.md",
     "Martha presentation 13-11-24.md",
-    "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf",
     "Pasted image 20241114125753.png",
     "File sources/Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system.pdf",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
@@ -239,7 +239,6 @@
     "Clippings/You all NEED these Obsidian community plugins.md",
     "Clippings/Obsidian collaboration with VS code.md",
     "Clippings/An Updated Academic Workflow Zotero & Obsidian.md",
-    "Clippings/Obsidian and overleaf - Help - Obsidian Forum.md",
     "Title.canvas"
   ]
 }
