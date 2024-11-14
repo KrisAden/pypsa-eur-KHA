@@ -1,25 +1,21 @@
-# List of disciplines
+# List of ongoing disciplines
 - [ ] PyPSA-EUR documentation and implementation
 - [ ] AU Prime usage
 - [ ] Work documentation
 - [ ] Github repository management
-- [ ] 
+- [ ] Overleaf Management
+- [ ] Source library and citing
+- [ ] Obsidian workflow developement
+- [ ] GAI usage and documentation
 
+![[Project proposal.pdf]]
 
-# Dataview
-```dataview
-list from [[]] and !outgoing([[]])
-```
+# Current considarations
 
-This here makes a list of other notes that refers to the note i am currently in 
+## Optimal Portfolio theory
 
-# List of things to import into notetaking structure
+The two papers by Pedersen et al: 
+- [[Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf]]
+- [[Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf]]
 
-- [x] How to use the cluster
-- [x] How to use overleaf and latex in the workflow
-- [x] How to use GitHub in the workflow
-- [x] how to use VScode in workflow
-- [x] How to use Obsidian for source management
-- [ ] In a litterature section i need all the papers that i have seen so far that might be relevant in one place 
-
-[[Lau m.fl. - 2024 - Measuring exploration evaluation of modelling to generate alternatives methods in capacity expansio.pdf]]
+Contain 
