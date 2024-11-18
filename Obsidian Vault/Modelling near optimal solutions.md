@@ -13,4 +13,4 @@ $$
 G=\frac{A}{(A+B)}
 $$
 ![[Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf#page=7]]
-æ
+
