@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "LaTEX"
             }
+          },
+          {
+            "id": "d15cedcd23ed4aec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,11 +199,10 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1025a2a0d3342572",
+  "active": "d15cedcd23ed4aec",
   "lastOpenFiles": [
     "Obsidian tips and tricks.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
