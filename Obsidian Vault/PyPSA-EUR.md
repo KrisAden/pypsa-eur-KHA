@@ -14,9 +14,21 @@ tags:
 [[Martha presentation 13-11-24]]
 
 $$
-min \begin{matrix}Yearly\\system
+\text{Min } 
+\left[
+\begin{matrix}
+\text{{Yearly}} \\
+\text{{system costs}}
+\end{matrix}
+\right]
+=
+\text{Min }
+\left[
+\sum_{n} \left( \text{\textcolor{red}{Annualised capital costs}} \right)
++
+\sum_{n,t} \left( \text{\textcolor{teal}{Marginal costs}} \right)
+\right]
 
-\end{matrix}Yearly\\system \cos ts
 $$
 
 Basic model energy modelling and cost modelling could be as described on pages 1 and 2:
