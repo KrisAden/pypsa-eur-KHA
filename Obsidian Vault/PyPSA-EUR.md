@@ -11,7 +11,9 @@ tags:
 ---
 ![](https://www.youtube.com/watch?v=ty47YU1_eeQ)
 
-[[Martha presentation 13-11-24]]
+# Introduction
+
+[[Martha presentation 13-11-24]] 
  
 $$
 \text{Min } 
@@ -54,7 +56,14 @@ For the ENTSOE-E area PyPSA EUR contains:
 - Inbuilt database of conventional powerplants
 - inbuilt electrical demand timeseries
 - inbuilt timeseries for renewable generation availability and capacity factors
+- Open source data only
+- high temporal and spatial solutions
 
+# Configuration
+
+config.yaml is the main "interface" with the model, and it is here that things such as countries and reference year is set. By default reference year is 2013.
+
+Global CO2 Reduction target is 
 
 
 
@@ -71,6 +80,7 @@ Basic model energy modelling and cost modelling could be as described on pages 1
 System costs could probably be sourced from:
 
 [[Victoria m.fl. - 2019 - The role of storage technologies throughout the decarbonisation of the sector-coupled European energ.pdf]]
+
 
 
 
