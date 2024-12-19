@@ -74,6 +74,13 @@ To save computation time the nodes should be clustered. *I think this is also wh
 - Solving
 - Summarising
 
+Necessary data bundles must be downloaded before use. They add up to 5.5 GB
+
+## Build shapes and Base networks
+Retrieves the polygons for every country, and then constructs the base power network with the relevant busses, transformers, lines and links
+
+## Build bus regions
+Aggregates resources, busses and links to the nearest nodes using Voronoi celles
 
 
 
