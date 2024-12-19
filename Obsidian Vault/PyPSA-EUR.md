@@ -63,8 +63,16 @@ For the ENTSOE-E area PyPSA EUR contains:
 
 config.yaml is the main "interface" with the model, and it is here that things such as countries and reference year is set. By default reference year is 2013.
 
-Global CO2 Reduction target is 
+Global CO2 Reduction target is present in config. *it might be smart to trace the precedents from this to see how it is implemented and find out how i can be done on an individual level*
 
+To save computation time the nodes should be clustered. *I think this is also where the sector coupling can be turned off, to onlhy look at electricity and not heating.*
+
+# Simplified workflow view
+
+- Preparation
+- Simplification
+- Solving
+- Summarising
 
 
 
@@ -80,6 +88,7 @@ Basic model energy modelling and cost modelling could be as described on pages 1
 System costs could probably be sourced from:
 
 [[Victoria m.fl. - 2019 - The role of storage technologies throughout the decarbonisation of the sector-coupled European energ.pdf]]
+
 
 
 
