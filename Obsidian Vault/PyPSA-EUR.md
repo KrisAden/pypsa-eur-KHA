@@ -13,6 +13,12 @@ tags:
 
 [[Martha presentation 13-11-24]]
 
+$$
+min \begin{matrix}Yearly\\system
+
+\end{matrix}Yearly\\system \cos ts
+$$
+
 Basic model energy modelling and cost modelling could be as described on pages 1 and 2:
 
 ![[Homework 05 KHA 201905079.pdf#page=2]]
