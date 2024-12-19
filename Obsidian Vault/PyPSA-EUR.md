@@ -41,9 +41,26 @@ Subject to:
 
 Transmission uses linearized power flow model. These constraints comes from data and is why PyPSA is data-driven modelling.
 
-# Workflow management tool
+# Workflow management
 
-Snakemake  makes it easy to run and reproduce result
+Snakemake  makes it easy to run and reproduce results and is a standardized execution method.  If one part of a script needs the output from another part of the script, it is important that they run in the right order.
+
+# PyPSA EUR Features
+
+For the ENTSOE-E area PyPSA EUR contains:
+- all DC lines abover 220 kV
+- all substations
+- all HVDC links
+- Inbuilt database of conventional powerplants
+- inbuilt electrical demand timeseries
+- inbuilt timeseries for renewable generation availability and capacity factors
+
+
+
+
+
+
+
 
 Basic model energy modelling and cost modelling could be as described on pages 1 and 2:
 
