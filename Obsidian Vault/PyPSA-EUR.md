@@ -12,7 +12,7 @@ tags:
 ![](https://www.youtube.com/watch?v=ty47YU1_eeQ)
 
 [[Martha presentation 13-11-24]]
-
+ 
 $$
 \text{Min } 
 \left[
@@ -24,12 +24,26 @@ $$
 =
 \text{Min }
 \left[
-\sum_{n} \left( \text{\textcolor{red}{Annualised capital costs}} \right)
+\sum_{n} \left(\text{Annualised capital costs} \right)
 +
-\sum_{n,t} \left( \text{\textcolor{teal}{Marginal costs}} \right)
+\sum_{n,t} \left( \text{Marginal costs}\right)
 \right]
 
 $$
+Subject to:
+
+- Meeting energy demand in every node at every timestep
+- Transmission constraints
+- Capacity factor time series
+- Installed capacity
+- CO2 emission reduction targets
+- Flexibility from backup
+
+Transmission uses linearized power flow model. These constraints comes from data and is why PyPSA is data-driven modelling.
+
+# Workflow management tool
+
+Snakemake  makes it easy to run and reproduce result
 
 Basic model energy modelling and cost modelling could be as described on pages 1 and 2:
 
