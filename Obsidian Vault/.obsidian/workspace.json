@@ -25,14 +25,17 @@
             "id": "1025a2a0d3342572",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "PyPSA-EUR.md",
-                "mode": "source",
-                "source": false
+                "file": "PYPSA-EUR workflow.canvas",
+                "viewState": {
+                  "x": -65.37737510938398,
+                  "y": -10.13095563401798,
+                  "zoom": -0.1043571507930754
+                }
               },
-              "icon": "lucide-file",
-              "title": "PyPSA-EUR"
+              "icon": "lucide-layout-dashboard",
+              "title": "PYPSA-EUR workflow"
             }
           }
         ],
@@ -194,6 +197,10 @@
   },
   "active": "1025a2a0d3342572",
   "lastOpenFiles": [
+    "Pasted image 20250106094404.png",
+    "PyPSA-EUR.md",
+    "PYPSA-EUR workflow.canvas",
+    "Untitled.md",
     "Obsidian tips and tricks.md",
     "File sources/Gøtske m.fl. - 2024 - Designing a sector-coupled European energy system robust to 60 years of historical weather data.pdf",
     "Main page.md",
@@ -210,7 +217,6 @@
     "Martha presentation 13-11-24.md",
     "File sources/Schyska m.fl. - 2021 - The sensitivity of power system expansion models.pdf",
     "Report considarations.md",
-    "PyPSA-EUR.md",
     "File sources/Victoria m.fl. - 2019 - The role of storage technologies throughout the decarbonisation of the sector-coupled European energ.pdf",
     "File sources/Tranberg m.fl. - 2018 - Flow-based nodal cost allocation in a heterogeneous highly renewable European electricity network.pdf",
     "File sources/Misc Files/Homework 05 KHA 201905079.pdf",
@@ -238,7 +244,6 @@
     "Unsorted files/How to Backup Your Obsidian Vault Using GitHub.md",
     "Clippings/You all NEED these Obsidian community plugins.md",
     "Clippings/Obsidian collaboration with VS code.md",
-    "Clippings/An Updated Academic Workflow Zotero & Obsidian.md",
     "Title.canvas"
   ]
 }
