@@ -1,0 +1,1 @@
+adds loads and generators to the base network with associated costs. each node has a load time series, capacity factor time series and hydrogen storage and batteries 
