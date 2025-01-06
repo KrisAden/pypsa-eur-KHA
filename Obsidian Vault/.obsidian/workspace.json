@@ -29,9 +29,9 @@
               "state": {
                 "file": "PYPSA-EUR workflow.canvas",
                 "viewState": {
-                  "x": 526.4274256737559,
-                  "y": 2635.1919623517856,
-                  "zoom": -2.568606985708077
+                  "x": 1372.784344905938,
+                  "y": 2502.0952072145014,
+                  "zoom": -2.5913815324763294
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -197,8 +197,9 @@
   },
   "active": "1025a2a0d3342572",
   "lastOpenFiles": [
-    "Main page.md",
+    "PyPSA-EUR.md",
     "PYPSA-EUR workflow.canvas",
+    "Main page.md",
     "PYPSA-EUR workflow/Cluster_network clusters_XXX.md",
     "PYPSA-EUR workflow/simplify_network network_elec_simpl.md",
     "PYPSA-EUR workflow/add_electricity.md",
@@ -216,7 +217,6 @@
     "PYPSA-EUR workflow/prepare_links_p_nom.md",
     "PYPSA-EUR workflow/build_shapes.md",
     "PYPSA-EUR workflow/retrive_databundle.md",
-    "PyPSA-EUR.md",
     "PYPSA-EUR workflow",
     "Drawing 2025-01-06 09.45.41.excalidraw.md",
     "Pasted image 20250106094404.png",
