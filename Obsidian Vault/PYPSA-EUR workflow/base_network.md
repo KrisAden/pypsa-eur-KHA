@@ -4,5 +4,3 @@
 [[build_bus_regions]]
 [[build_renewable_profiles technology_offwind_ac]]
 [[build_renewable_profiles technology_solar]]
-
-![[base_network.py]]

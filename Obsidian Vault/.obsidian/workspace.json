@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYPSA-EUR workflow/build_bus_regions.md",
+                "file": "PYPSA-EUR workflow/add_electricity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "build_bus_regions"
+              "title": "add_electricity"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "10577f670cae75a2",
   "lastOpenFiles": [
+    "PYPSA-EUR workflow/build_bus_regions.md",
     "PYPSA-EUR workflow/base_network.md",
     "base_network.py",
     "PYPSA-EUR workflow/add_electricity.md",
@@ -213,7 +214,6 @@
     "PYPSA-EUR workflow/build_cutout cutout_europe_2013_sarah.md",
     "PYPSA-EUR workflow/build_cutout cutout_europe_2013_era5.md",
     "PYPSA-EUR workflow/retrieve_natura_raster.md",
-    "PYPSA-EUR workflow/build_bus_regions.md",
     "PYPSA-EUR workflow.canvas",
     "Pasted image 20241114125753.png",
     "doc/img/validation_seasonal_operation_area_elec_s_37_ec_lv1.0_Ept.png",
