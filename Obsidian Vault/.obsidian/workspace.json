@@ -25,10 +25,14 @@
             "id": "1025a2a0d3342572",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "PYPSA-EUR workflow/add_electricity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "add_electricity"
             }
           }
         ],
@@ -188,7 +192,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1025a2a0d3342572",
+  "active": "95023af587303dde",
   "lastOpenFiles": [
     "PYPSA-EUR workflow/simplify_network network_elec_simpl.md",
     "PYPSA-EUR workflow/base_network.md",
