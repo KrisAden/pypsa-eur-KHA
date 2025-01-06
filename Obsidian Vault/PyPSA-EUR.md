@@ -97,6 +97,30 @@ System costs could probably be sourced from:
 [[Victoria m.fl. - 2019 - The role of storage technologies throughout the decarbonisation of the sector-coupled European energ.pdf]]
 
 
-# Using 
+# Using PyPSA-EUR
+
+*can i run my own branch of the repository?
+
+git clone https://github.com/pypsa/pypsa-eur.git
+cd pypsa-eur
+
+when typing ls the following should be seen:
+- config.default.yaml
+- config.tutorial.yaml
+- data (store databundle)
+- doc
+- enviroment.docs.yaml
+- enviroment.fixedversions.yaml
+- enviroment.yaml
+- LICENSE.txt
+- matplotlibrc
+- README.md
+- scripts (contains the scripts we are running)
+- test
+- Snakefile (excecutes the workflow)
+
+
+
+
 
 
