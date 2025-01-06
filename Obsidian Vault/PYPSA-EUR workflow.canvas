@@ -1,4 +1,24 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"0d8a6480834728c4","x":268,"y":743,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/retrive_databundle.md"},
+		{"id":"152b670ff545fa19","x":268,"y":1360,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_shapes.md"},
+		{"id":"28150bd6cdcadb0a","x":-400,"y":2000,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_powerplants.md"},
+		{"id":"5c35737b8f182a03","x":-800,"y":2720,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/base_network.md"},
+		{"id":"85f0246ef9a761ed","x":-132,"y":2720,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_cutout cutout_europe_2013_era5.md"},
+		{"id":"70a7a0c4c251020b","x":468,"y":2720,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_cutout cutout_europe_2013_sarah.md"},
+		{"id":"591081da934d9f69","x":-1600,"y":3360,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/prepare_links_p_nom.md"},
+		{"id":"8f7924fcedee541a","x":-1000,"y":3360,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_hydro_profile.md"},
+		{"id":"99f5c499a6c1e884","x":-400,"y":3360,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_bus_regions.md"},
+		{"id":"9d4a03b07f106a46","x":268,"y":3360,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_offwind_ac.md"},
+		{"id":"6b6de04821b483c0","x":868,"y":3360,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_offwind_dc.md"},
+		{"id":"429d628f0488edb0","x":1520,"y":3360,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_onwind.md"},
+		{"id":"5db42268373ed75b","x":2160,"y":3360,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_solar.md"},
+		{"id":"ec08010bc2713626","x":2800,"y":3360,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/retrieve_natura_raster.md"},
+		{"id":"e8d9286a26dcbc6d","x":868,"y":4240,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/add_electricity.md"},
+		{"id":"f9c437ea4b00b315","x":868,"y":4880,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/simplify_network network_elec_simpl.md"},
+		{"id":"b47b14fe6de70a0e","x":868,"y":5600,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/Cluster_network clusters_XXX.md"}
+	],
+	"edges":[
+		{"id":"7b91b74e8d5ff939","fromNode":"0d8a6480834728c4","fromSide":"bottom","toNode":"152b670ff545fa19","toSide":"top"}
+	]
 }
