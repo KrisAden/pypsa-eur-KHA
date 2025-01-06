@@ -4,12 +4,24 @@
 		{"id":"d5c4e5ba4e1ed2c9","x":-1120,"y":720,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_offwind_ac.md"},
 		{"id":"2428a1a8b5690d2a","x":-1760,"y":720,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_onwind.md"},
 		{"id":"5cc3d70646020b76","x":240,"y":720,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_offwind_dc.md"},
-		{"id":"58d617980f0f248f","x":-560,"y":400,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_shapes.md"}
+		{"id":"58d617980f0f248f","x":-560,"y":400,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_shapes.md"},
+		{"id":"45f40f720ab2b07b","x":880,"y":720,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_solar.md"},
+		{"id":"a73e6120ec04d32e","x":1600,"y":720,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_hydro_profile.md"},
+		{"id":"4e9ad358327ea5b2","x":-2400,"y":720,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/prepare_links_p_nom.md"},
+		{"id":"3132787cae8f569a","x":-1360,"y":1760,"width":400,"height":347,"type":"file","file":"PYPSA-EUR workflow/base_network.md"},
+		{"id":"c98adfe7e7e2d386","x":-720,"y":2400,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_bus_regions.md"}
 	],
 	"edges":[
 		{"id":"4f8be603dd59b43f","fromNode":"045e18b4737ebd64","fromSide":"bottom","toNode":"2428a1a8b5690d2a","toSide":"top"},
 		{"id":"177c1c2acdb7a4a0","fromNode":"045e18b4737ebd64","fromSide":"bottom","toNode":"d5c4e5ba4e1ed2c9","toSide":"top"},
 		{"id":"12d4b76ddd54cf6b","fromNode":"045e18b4737ebd64","fromSide":"bottom","toNode":"58d617980f0f248f","toSide":"left"},
-		{"id":"e6b7890cc1d446ef","fromNode":"045e18b4737ebd64","fromSide":"bottom","toNode":"5cc3d70646020b76","toSide":"top"}
+		{"id":"e6b7890cc1d446ef","fromNode":"045e18b4737ebd64","fromSide":"bottom","toNode":"5cc3d70646020b76","toSide":"top"},
+		{"id":"4cb8863c69200488","fromNode":"045e18b4737ebd64","fromSide":"bottom","toNode":"45f40f720ab2b07b","toSide":"top"},
+		{"id":"71b3b559e1bdb74b","fromNode":"045e18b4737ebd64","fromSide":"bottom","toNode":"a73e6120ec04d32e","toSide":"top"},
+		{"id":"1316f1cfb7c8dacc","fromNode":"4e9ad358327ea5b2","fromSide":"bottom","toNode":"3132787cae8f569a","toSide":"top"},
+		{"id":"2d2e98e443e6f289","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"3132787cae8f569a","toSide":"top"},
+		{"id":"ed8089673056db0e","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"2428a1a8b5690d2a","toSide":"top"},
+		{"id":"7a7fc5517988a136","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"d5c4e5ba4e1ed2c9","toSide":"top"},
+		{"id":"72629d3e181a6b5b","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"c98adfe7e7e2d386","toSide":"top"}
 	]
 }
