@@ -1,10 +1,19 @@
 {
 	"nodes":[
 		{"id":"4e9ad358327ea5b2","type":"file","file":"PYPSA-EUR workflow/prepare_links_p_nom.md","x":-2160,"y":-400,"width":400,"height":400},
-		{"id":"045e18b4737ebd64","type":"file","file":"PYPSA-EUR workflow/retrive_databundle.md","x":-1600,"y":-400,"width":400,"height":400},
-		{"id":"ac795d23042bc8b7","x":-1040,"y":-400,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/retrieve_natura_raster.md"},
-		{"id":"6cebe11f3858535e","x":-480,"y":-400,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_cutout cutout_europe_2013_era5.md"},
-		{"id":"fcf1cd60a3250aac","x":80,"y":-400,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_cutout cutout_europe_2013_sarah.md"}
+		{"id":"6cebe11f3858535e","type":"file","file":"PYPSA-EUR workflow/build_cutout cutout_europe_2013_era5.md","x":-480,"y":-400,"width":400,"height":400},
+		{"id":"fcf1cd60a3250aac","type":"file","file":"PYPSA-EUR workflow/build_cutout cutout_europe_2013_sarah.md","x":80,"y":-400,"width":400,"height":400},
+		{"id":"5e2659f23033b4b1","type":"file","file":"PYPSA-EUR workflow/build_shapes.md","x":-1040,"y":400,"width":400,"height":400},
+		{"id":"045e18b4737ebd64","type":"file","file":"PYPSA-EUR workflow/retrive_databundle.md","x":-1040,"y":-400,"width":400,"height":400},
+		{"id":"ac795d23042bc8b7","type":"file","file":"PYPSA-EUR workflow/retrieve_natura_raster.md","x":-1600,"y":-400,"width":400,"height":400},
+		{"id":"7cfc3966e1687d1e","type":"file","file":"PYPSA-EUR workflow/base_network.md","x":-1040,"y":960,"width":400,"height":400},
+		{"id":"9d4f02e3934244da","type":"file","file":"PYPSA-EUR workflow/build_powerplants.md","x":-1040,"y":1520,"width":400,"height":400},
+		{"id":"b2175c555a53cac9","type":"file","file":"PYPSA-EUR workflow/build_bus_regions.md","x":-480,"y":960,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"2f3832cdc4e858cb","fromNode":"045e18b4737ebd64","fromSide":"bottom","toNode":"5e2659f23033b4b1","toSide":"top"},
+		{"id":"0df9256f84f07982","fromNode":"5e2659f23033b4b1","fromSide":"bottom","toNode":"7cfc3966e1687d1e","toSide":"top"},
+		{"id":"5c9b904733aa4ec4","fromNode":"4e9ad358327ea5b2","fromSide":"bottom","toNode":"7cfc3966e1687d1e","toSide":"left"},
+		{"id":"ef4668315a8337f8","fromNode":"7cfc3966e1687d1e","fromSide":"bottom","toNode":"9d4f02e3934244da","toSide":"top"}
+	]
 }
