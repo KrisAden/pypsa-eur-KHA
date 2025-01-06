@@ -130,4 +130,20 @@ activates the enviroment
 
 now the commercial gurobi solver must be installed.
 
+now for the config.yaml
+
+for bigger problems the default.yaml should be used. to do so the default should be copied to the usable config.yaml:
+
+cp config.defaul.yaml config.yaml
+
+*I Should read the config.yaml
+
+to run the snakemake use:
+snakemake -j 1 results/networks/elec_s_6_ec_lcopt_CO2L-24H.nc
+The name of the snakemake
+
+
+
+
+
 
