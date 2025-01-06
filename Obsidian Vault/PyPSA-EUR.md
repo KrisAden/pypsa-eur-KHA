@@ -148,5 +148,7 @@ snakemake -j 1 -n results/networks/elec_s_6_ec_lcopt_CO2L-24H.nc
 once the code has been run the analysis can be performed in jupyter notebooks
 
 
+next chapter is network analysis on fabians video nr. 2. Next tasks is to read the problem description as well as the config file to identify areas that might need modification in the script.
+
 
 
