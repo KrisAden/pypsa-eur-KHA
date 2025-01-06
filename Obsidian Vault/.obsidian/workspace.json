@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYPSA-EUR workflow/base_network.md",
+                "file": "PYPSA-EUR workflow/build_cutout cutout_europe_2013_era5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "base_network"
+              "title": "build_cutout cutout_europe_2013_era5"
             }
           }
         ]
@@ -178,14 +178,19 @@
   },
   "active": "10577f670cae75a2",
   "lastOpenFiles": [
-    "PYPSA-EUR workflow/build_shapes.md",
+    "PYPSA-EUR workflow/build_renewable_profiles technology_offwind_ac.md",
+    "PYPSA-EUR workflow/build_renewable_profiles technology_solar.md",
+    "PYPSA-EUR workflow/build_renewable_profiles technology_onwind.md",
+    "PYPSA-EUR workflow/build_renewable_profiles technology_offwind_dc.md",
+    "PYPSA-EUR workflow/build_hydro_profile.md",
+    "PYPSA-EUR workflow/build_bus_regions.md",
     "PYPSA-EUR workflow/base_network.md",
+    "PYPSA-EUR workflow/build_shapes.md",
     "Pasted image 20250106124706.png",
     "PyPSA-EUR.md",
     "Main page.md",
     "Modelling near optimal solutions.md",
     "PYPSA-EUR workflow/add_electricity.md",
-    "PYPSA-EUR workflow/build_bus_regions.md",
     "base_network.py",
     "add_electricity.py",
     "File sources/Gøtske m.fl. - 2024 - Designing a sector-coupled European energy system robust to 60 years of historical weather data.pdf",
@@ -208,11 +213,6 @@
     "Drawing 2025-01-06 09.45.41.excalidraw.md",
     "Cluster usage.md",
     "PYPSA-EUR workflow/simplify_network network_elec_simpl.md",
-    "PYPSA-EUR workflow/build_hydro_profile.md",
-    "PYPSA-EUR workflow/build_renewable_profiles technology_solar.md",
-    "PYPSA-EUR workflow/build_renewable_profiles technology_offwind_dc.md",
-    "PYPSA-EUR workflow/build_renewable_profiles technology_offwind_ac.md",
-    "PYPSA-EUR workflow/build_renewable_profiles technology_onwind.md",
     "PYPSA-EUR workflow/build_cutout cutout_europe_2013_sarah.md",
     "PYPSA-EUR workflow/build_cutout cutout_europe_2013_era5.md",
     "PYPSA-EUR workflow.canvas",
