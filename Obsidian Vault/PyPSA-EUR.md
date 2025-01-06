@@ -120,7 +120,14 @@ when typing ls the following should be seen:
 - Snakefile (excecutes the workflow)
 
 
+first the enviroment must be solved. enviroment.yaml must contain a name and the packages needed as well as the dependencies for creating the enviroment on the cluster:
 
+conda env create -f enviroment.yaml
+installs the enviroment but might take some time
 
+conda activate pypsa-eur
+activates the enviroment
+
+now the commercial gurobi solver must be installed.
 
 
