@@ -45,7 +45,7 @@ Transmission uses linearized power flow model. These constraints comes from data
 
 # Workflow management
 
-Snakemake  makes it easy to run and reproduce results and is a standardized execution method.  If one part of a script needs the output from another part of the script, it is important that they run in the right order.
+Snakemake  makes it easy to run and reproduce results and is a standardized execution method.  If one part of a script needs the output from another part of the script, it is important that they run in the right order. Snakemake can also run variations for solving multiple networks at the same time!
 
 # PyPSA EUR Features
 
@@ -97,6 +97,6 @@ System costs could probably be sourced from:
 [[Victoria m.fl. - 2019 - The role of storage technologies throughout the decarbonisation of the sector-coupled European energ.pdf]]
 
 
-
+# Using 
 
 

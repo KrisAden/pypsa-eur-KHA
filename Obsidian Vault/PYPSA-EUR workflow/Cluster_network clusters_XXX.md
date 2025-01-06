@@ -1,1 +1,1 @@
-clusters the 
+clusters the network and volonoi cells using k-means. minimum is 37 with one node for every country. *Due to the length of the lines it is not advisable to use linearized power flows?!*
