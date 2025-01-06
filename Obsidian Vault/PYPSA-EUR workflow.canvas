@@ -1,22 +1,31 @@
 {
 	"nodes":[
-		{"id":"8f7924fcedee541a","type":"file","file":"PYPSA-EUR workflow/build_hydro_profile.md","x":-1000,"y":3360,"width":400,"height":400},
-		{"id":"5db42268373ed75b","type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_solar.md","x":2160,"y":3360,"width":400,"height":400},
-		{"id":"e8d9286a26dcbc6d","type":"file","file":"PYPSA-EUR workflow/add_electricity.md","x":868,"y":4240,"width":400,"height":400},
-		{"id":"f9c437ea4b00b315","type":"file","file":"PYPSA-EUR workflow/simplify_network network_elec_simpl.md","x":868,"y":4880,"width":400,"height":400},
-		{"id":"b47b14fe6de70a0e","type":"file","file":"PYPSA-EUR workflow/Cluster_network clusters_XXX.md","x":868,"y":5600,"width":400,"height":400},
 		{"id":"0d8a6480834728c4","type":"file","file":"PYPSA-EUR workflow/retrive_databundle.md","x":2360,"y":880,"width":400,"height":400},
-		{"id":"152b670ff545fa19","type":"file","file":"PYPSA-EUR workflow/build_shapes.md","x":1120,"y":1440,"width":400,"height":400},
-		{"id":"591081da934d9f69","type":"file","file":"PYPSA-EUR workflow/prepare_links_p_nom.md","x":-920,"y":1440,"width":400,"height":400},
-		{"id":"28150bd6cdcadb0a","type":"file","file":"PYPSA-EUR workflow/build_powerplants.md","x":-1600,"y":2120,"width":400,"height":400},
-		{"id":"99f5c499a6c1e884","type":"file","file":"PYPSA-EUR workflow/build_bus_regions.md","x":-1000,"y":2120,"width":400,"height":400},
-		{"id":"ec08010bc2713626","type":"file","file":"PYPSA-EUR workflow/retrieve_natura_raster.md","x":-200,"y":2120,"width":400,"height":400},
-		{"id":"85f0246ef9a761ed","type":"file","file":"PYPSA-EUR workflow/build_cutout cutout_europe_2013_era5.md","x":468,"y":2120,"width":400,"height":400},
-		{"id":"429d628f0488edb0","type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_onwind.md","x":-1320,"y":2760,"width":400,"height":400},
-		{"id":"70a7a0c4c251020b","type":"file","file":"PYPSA-EUR workflow/build_cutout cutout_europe_2013_sarah.md","x":-1400,"y":3560,"width":400,"height":400},
-		{"id":"9d4a03b07f106a46","type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_offwind_ac.md","x":-600,"y":2760,"width":400,"height":400},
-		{"id":"5c35737b8f182a03","type":"file","file":"PYPSA-EUR workflow/base_network.md","x":0,"y":3360,"width":400,"height":400},
-		{"id":"6b6de04821b483c0","type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_offwind_dc.md","x":0,"y":2760,"width":400,"height":400}
+		{"id":"591081da934d9f69","type":"file","file":"PYPSA-EUR workflow/prepare_links_p_nom.md","x":-1000,"y":880,"width":400,"height":400},
+		{"id":"f9c437ea4b00b315","type":"file","file":"PYPSA-EUR workflow/simplify_network network_elec_simpl.md","x":-132,"y":4160,"width":400,"height":400},
+		{"id":"b47b14fe6de70a0e","type":"file","file":"PYPSA-EUR workflow/Cluster_network clusters_XXX.md","x":-132,"y":4800,"width":400,"height":400},
+		{"id":"28150bd6cdcadb0a","type":"file","file":"PYPSA-EUR workflow/build_powerplants.md","x":-2160,"y":1920,"width":400,"height":400},
+		{"id":"99f5c499a6c1e884","type":"file","file":"PYPSA-EUR workflow/build_bus_regions.md","x":-1520,"y":1920,"width":400,"height":400},
+		{"id":"429d628f0488edb0","type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_onwind.md","x":-1760,"y":2760,"width":400,"height":400},
+		{"id":"ec08010bc2713626","type":"file","file":"PYPSA-EUR workflow/retrieve_natura_raster.md","x":-1000,"y":2520,"width":400,"height":400},
+		{"id":"85f0246ef9a761ed","type":"file","file":"PYPSA-EUR workflow/build_cutout cutout_europe_2013_era5.md","x":360,"y":2120,"width":400,"height":400},
+		{"id":"9d4a03b07f106a46","type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_offwind_ac.md","x":-532,"y":2520,"width":400,"height":400},
+		{"id":"152b670ff545fa19","type":"file","file":"PYPSA-EUR workflow/build_shapes.md","x":868,"y":1840,"width":400,"height":400},
+		{"id":"5db42268373ed75b","type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_solar.md","x":1320,"y":2760,"width":400,"height":400},
+		{"id":"8f7924fcedee541a","type":"file","file":"PYPSA-EUR workflow/build_hydro_profile.md","x":2560,"y":2720,"width":400,"height":400},
+		{"id":"e8d9286a26dcbc6d","type":"file","file":"PYPSA-EUR workflow/add_electricity.md","x":3200,"y":3360,"width":400,"height":400},
+		{"id":"70a7a0c4c251020b","type":"file","file":"PYPSA-EUR workflow/build_cutout cutout_europe_2013_sarah.md","x":1520,"y":2120,"width":400,"height":400},
+		{"id":"6b6de04821b483c0","type":"file","file":"PYPSA-EUR workflow/build_renewable_profiles technology_offwind_dc.md","x":468,"y":2760,"width":400,"height":400},
+		{"id":"5c35737b8f182a03","type":"file","file":"PYPSA-EUR workflow/base_network.md","x":-1000,"y":1640,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ea626587f83fa02a","fromNode":"0d8a6480834728c4","fromSide":"left","toNode":"429d628f0488edb0","toSide":"top"},
+		{"id":"fb0451652443ec54","fromNode":"0d8a6480834728c4","fromSide":"left","toNode":"9d4a03b07f106a46","toSide":"top"},
+		{"id":"63f2aca145a03a33","fromNode":"0d8a6480834728c4","fromSide":"bottom","toNode":"152b670ff545fa19","toSide":"top"},
+		{"id":"24ae828d8ce5e9a1","fromNode":"0d8a6480834728c4","fromSide":"bottom","toNode":"6b6de04821b483c0","toSide":"top"},
+		{"id":"c1405144a6c5ca07","fromNode":"0d8a6480834728c4","fromSide":"bottom","toNode":"5db42268373ed75b","toSide":"right"},
+		{"id":"be8bf3e5b2e179d2","fromNode":"0d8a6480834728c4","fromSide":"bottom","toNode":"8f7924fcedee541a","toSide":"top"},
+		{"id":"aa0cae1746c9fce8","fromNode":"0d8a6480834728c4","fromSide":"right","toNode":"e8d9286a26dcbc6d","toSide":"right"},
+		{"id":"8771e9c38f039d54","fromNode":"591081da934d9f69","fromSide":"bottom","toNode":"5c35737b8f182a03","toSide":"top"}
+	]
 }
