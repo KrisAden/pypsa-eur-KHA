@@ -25,17 +25,14 @@
             "id": "1025a2a0d3342572",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "PYPSA-EUR workflow.canvas",
-                "viewState": {
-                  "x": -65.37737510938398,
-                  "y": -10.13095563401798,
-                  "zoom": -0.1043571507930754
-                }
+                "file": "PYPSA-EUR workflow/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "PYPSA-EUR workflow"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -197,9 +194,20 @@
   },
   "active": "1025a2a0d3342572",
   "lastOpenFiles": [
-    "Pasted image 20250106094404.png",
+    "PYPSA-EUR workflow/build_cutout cutout_europe_2013_era5.md",
+    "PYPSA-EUR workflow/Untitled.md",
+    "PYPSA-EUR workflow/retrieve_natura_raster.md",
+    "PYPSA-EUR workflow/build_bus_regions.md",
+    "PYPSA-EUR workflow/build_powerplants.md",
+    "PYPSA-EUR workflow/base_network.md",
+    "PYPSA-EUR workflow/prepare_links_p_nom.md",
+    "PYPSA-EUR workflow/build_shapes.md",
+    "PYPSA-EUR workflow/retrive_databundle.md",
     "PyPSA-EUR.md",
+    "PYPSA-EUR workflow",
+    "Drawing 2025-01-06 09.45.41.excalidraw.md",
     "PYPSA-EUR workflow.canvas",
+    "Pasted image 20250106094404.png",
     "Untitled.md",
     "Obsidian tips and tricks.md",
     "File sources/Gøtske m.fl. - 2024 - Designing a sector-coupled European energy system robust to 60 years of historical weather data.pdf",
@@ -221,16 +229,10 @@
     "File sources/Tranberg m.fl. - 2018 - Flow-based nodal cost allocation in a heterogeneous highly renewable European electricity network.pdf",
     "File sources/Misc Files/Homework 05 KHA 201905079.pdf",
     "File sources/Misc Files/Homework 05 KHA 201905079.pptx",
-    "File sources/Misc Files/~$Homework 05 KHA 201905079.pptx",
     "Cluster usage.md",
     "Coding.md",
     "GitHub.md",
     "Pasted image 20241114125753.png",
-    "Drawing 2024-11-14 12.48.44.excalidraw.md",
-    "Clippings/model.energy.md",
-    "Excalidraw/Drawing 2024-11-14 12.35.53.excalidraw.md",
-    "Fabian Neumann.md",
-    "data/entsoegridkit/README.md",
     "doc/img/validation_seasonal_operation_area_elec_s_37_ec_lv1.0_Ept.png",
     "doc/img/underwater_hist.png",
     "doc/img/validation_production_bar_elec_s_37_ec_lv1.0_Ept.png",
@@ -239,11 +241,6 @@
     "doc/img/synchronisation.png",
     "doc/img/scenarios.png",
     "doc/img/solar-gridcell.png",
-    "doc/img/sarah.png",
-    "README.md",
-    "Unsorted files/How to Backup Your Obsidian Vault Using GitHub.md",
-    "Clippings/You all NEED these Obsidian community plugins.md",
-    "Clippings/Obsidian collaboration with VS code.md",
     "Title.canvas"
   ]
 }
