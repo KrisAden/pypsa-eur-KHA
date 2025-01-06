@@ -140,9 +140,12 @@ cp config.defaul.yaml config.yaml
 
 to run the snakemake use:
 snakemake -j 1 results/networks/elec_s_6_ec_lcopt_CO2L-24H.nc
-The name of the snakemake
+The name of the snakemake means that the results are aggragated to 6 nodes, optimal line expansion, has a target co2 limit and aggregates at 24 hours.
 
+to check what would be run first 
+snakemake -j 1 -n results/networks/elec_s_6_ec_lcopt_CO2L-24H.nc
 
+once the code has been run the analysis can be performed in jupyter notebooks
 
 
 
