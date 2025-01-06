@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYPSA-EUR workflow/add_electricity.md",
+                "file": "PyPSA-EUR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "add_electricity"
+              "title": "PyPSA-EUR"
             }
           }
         ]
@@ -178,10 +178,10 @@
   },
   "active": "10577f670cae75a2",
   "lastOpenFiles": [
+    "PYPSA-EUR workflow/add_electricity.md",
     "PYPSA-EUR workflow/build_bus_regions.md",
     "PYPSA-EUR workflow/base_network.md",
     "base_network.py",
-    "PYPSA-EUR workflow/add_electricity.md",
     "add_electricity.py",
     "File sources/Gøtske m.fl. - 2024 - Designing a sector-coupled European energy system robust to 60 years of historical weather data.pdf",
     "Report considarations.md",
