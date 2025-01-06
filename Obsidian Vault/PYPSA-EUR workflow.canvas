@@ -9,7 +9,8 @@
 		{"id":"a73e6120ec04d32e","x":1600,"y":720,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_hydro_profile.md"},
 		{"id":"4e9ad358327ea5b2","x":-2400,"y":720,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/prepare_links_p_nom.md"},
 		{"id":"3132787cae8f569a","x":-1360,"y":1760,"width":400,"height":347,"type":"file","file":"PYPSA-EUR workflow/base_network.md"},
-		{"id":"c98adfe7e7e2d386","x":-720,"y":2400,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_bus_regions.md"}
+		{"id":"c98adfe7e7e2d386","x":-720,"y":2400,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/build_bus_regions.md"},
+		{"id":"46c7bd07904d0e2b","x":1520,"y":2200,"width":400,"height":400,"type":"file","file":"PYPSA-EUR workflow/add_electricity.md"}
 	],
 	"edges":[
 		{"id":"4f8be603dd59b43f","fromNode":"045e18b4737ebd64","fromSide":"bottom","toNode":"2428a1a8b5690d2a","toSide":"top"},
@@ -22,6 +23,12 @@
 		{"id":"2d2e98e443e6f289","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"3132787cae8f569a","toSide":"top"},
 		{"id":"ed8089673056db0e","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"2428a1a8b5690d2a","toSide":"top"},
 		{"id":"7a7fc5517988a136","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"d5c4e5ba4e1ed2c9","toSide":"top"},
-		{"id":"72629d3e181a6b5b","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"c98adfe7e7e2d386","toSide":"top"}
+		{"id":"72629d3e181a6b5b","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"c98adfe7e7e2d386","toSide":"top"},
+		{"id":"9ee6ef5e04b78780","fromNode":"3132787cae8f569a","fromSide":"bottom","toNode":"c98adfe7e7e2d386","toSide":"top"},
+		{"id":"2f3dfc978ea06292","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"5cc3d70646020b76","toSide":"top"},
+		{"id":"959be754abee7fec","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"45f40f720ab2b07b","toSide":"top"},
+		{"id":"08364e63b8aa586b","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"a73e6120ec04d32e","toSide":"top"},
+		{"id":"e309b4f62cdd5c6f","fromNode":"58d617980f0f248f","fromSide":"bottom","toNode":"46c7bd07904d0e2b","toSide":"top"},
+		{"id":"0e6c733986378a92","fromNode":"46c7bd07904d0e2b","fromSide":"top","toNode":"045e18b4737ebd64","toSide":"bottom"}
 	]
 }
