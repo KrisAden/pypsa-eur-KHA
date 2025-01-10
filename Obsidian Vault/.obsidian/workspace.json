@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "right": {
     "id": "42922066fe6f93d7",
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,6 +204,9 @@
   },
   "active": "0686fdea27193c35",
   "lastOpenFiles": [
+    "Pasted image 20250110132701.png",
+    "Pasted image 20250110132637.png",
+    "Pasted image 20250110132531.png",
     "Snakemake.md",
     "Pasted image 20250110132238.png",
     "GitHub.md",
@@ -247,8 +251,6 @@
     "doc/img/validation_seasonal_operation_area_elec_s_37_ec_lv1.0_Ept.png",
     "doc/img/underwater_hist.png",
     "doc/img/validation_production_bar_elec_s_37_ec_lv1.0_Ept.png",
-    "doc/img/workflow.png",
-    "doc/img/tech-colors.png",
     "Title.canvas"
   ]
 }
