@@ -193,8 +193,11 @@
   },
   "active": "0686fdea27193c35",
   "lastOpenFiles": [
-    "File sources/Snakefile",
     "PyPSA-EUR.md",
+    "Snakemake.md",
+    "Obsidian tips and tricks.md",
+    "File sources/Pasted image 20250110131723.png",
+    "File sources/Snakefile",
     "PYPSA-EUR workflow/build_renewable_profiles technology_offwind_ac.md",
     "PYPSA-EUR workflow/build_renewable_profiles technology_solar.md",
     "PYPSA-EUR workflow/prepare_links_p_nom.md",
@@ -204,7 +207,6 @@
     "PYPSA-EUR workflow/build_bus_regions.md",
     "PYPSA-EUR workflow/base_network.md",
     "PYPSA-EUR workflow/add_electricity.md",
-    "Snakemake.md",
     "Clippings/model.energy.md",
     "Main page.md",
     "PYPSA-EUR workflow/Cluster_network clusters_XXX.md",
@@ -227,9 +229,7 @@
     "File sources/Misc Files/__init__.py",
     "File sources/Misc Files/time_aggregation.py",
     "File sources/Misc Files/solve_operations_network.py",
-    "File sources/Misc Files/solve_network.py",
     "().md",
-    "Obsidian tips and tricks.md",
     "Pasted image 20250106094404.png",
     "PYPSA-EUR workflow.canvas",
     "Pasted image 20241114125753.png",
@@ -239,7 +239,6 @@
     "doc/img/workflow.png",
     "doc/img/tech-colors.png",
     "doc/img/synchronisation.png",
-    "doc/img/scenarios.png",
     "Title.canvas"
   ]
 }
