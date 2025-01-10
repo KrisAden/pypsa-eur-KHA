@@ -169,13 +169,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "37447929384b87cc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +203,10 @@
   },
   "active": "0686fdea27193c35",
   "lastOpenFiles": [
-    "PyPSA-EUR.md",
     "Snakemake.md",
+    "Pasted image 20250110132238.png",
+    "GitHub.md",
+    "PyPSA-EUR.md",
     "Obsidian tips and tricks.md",
     "File sources/Pasted image 20250110131723.png",
     "File sources/Snakefile",
@@ -229,7 +241,6 @@
     "File sources/Misc Files/__init__.py",
     "File sources/Misc Files/time_aggregation.py",
     "File sources/Misc Files/solve_operations_network.py",
-    "().md",
     "Pasted image 20250106094404.png",
     "PYPSA-EUR workflow.canvas",
     "Pasted image 20241114125753.png",
@@ -238,7 +249,6 @@
     "doc/img/validation_production_bar_elec_s_37_ec_lv1.0_Ept.png",
     "doc/img/workflow.png",
     "doc/img/tech-colors.png",
-    "doc/img/synchronisation.png",
     "Title.canvas"
   ]
 }
