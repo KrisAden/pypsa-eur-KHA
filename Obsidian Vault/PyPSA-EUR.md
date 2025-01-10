@@ -47,6 +47,8 @@ Transmission uses linearized power flow model. These constraints comes from data
 
 Snakemake  makes it easy to run and reproduce results and is a standardized execution method.  If one part of a script needs the output from another part of the script, it is important that they run in the right order. Snakemake can also run variations for solving multiple networks at the same time!
 
+[[Snakemake]]
+
 # PyPSA EUR Features
 
 For the ENTSOE-E area PyPSA EUR contains:
