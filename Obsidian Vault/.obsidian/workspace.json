@@ -11,32 +11,13 @@
             "id": "10577f670cae75a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PyPSA-EUR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PyPSA-EUR"
-            }
-          },
-          {
-            "id": "0686fdea27193c35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snakemake.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Snakemake"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,17 +183,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0686fdea27193c35",
+  "active": "10577f670cae75a2",
   "lastOpenFiles": [
-    "Pasted image 20250110132701.png",
-    "Pasted image 20250110132637.png",
-    "Pasted image 20250110132531.png",
     "Snakemake.md",
-    "Pasted image 20250110132238.png",
-    "GitHub.md",
     "PyPSA-EUR.md",
+    "File sources/Pasted image 20250110132238.png",
+    "File sources/Pasted image 20250110133304.png",
+    "File sources/Pasted image 20250110133238.png",
+    "File sources/Pasted image 20250110133220.png",
+    "File sources/Pasted image 20250110133155.png",
+    "File sources/Pasted image 20250110133145.png",
+    "File sources/Pasted image 20250110133128.png",
+    "File sources/Pasted image 20250110132701.png",
+    "File sources/Pasted image 20250110132637.png",
+    "File sources/Pasted image 20250110132531.png",
+    "GitHub.md",
     "Obsidian tips and tricks.md",
-    "File sources/Pasted image 20250110131723.png",
     "File sources/Snakefile",
     "PYPSA-EUR workflow/build_renewable_profiles technology_offwind_ac.md",
     "PYPSA-EUR workflow/build_renewable_profiles technology_solar.md",
@@ -233,7 +219,6 @@
     "PYPSA-EUR workflow/build_renewable_profiles technology_offwind_dc.md",
     "PYPSA-EUR workflow/build_powerplants.md",
     "PYPSA-EUR workflow/build_cutout cutout_europe_2013_sarah.md",
-    "Pasted image 20250106124706.png",
     "Modelling near optimal solutions.md",
     "base_network.py",
     "add_electricity.py",
@@ -245,12 +230,7 @@
     "File sources/Misc Files/__init__.py",
     "File sources/Misc Files/time_aggregation.py",
     "File sources/Misc Files/solve_operations_network.py",
-    "Pasted image 20250106094404.png",
     "PYPSA-EUR workflow.canvas",
-    "Pasted image 20241114125753.png",
-    "doc/img/validation_seasonal_operation_area_elec_s_37_ec_lv1.0_Ept.png",
-    "doc/img/underwater_hist.png",
-    "doc/img/validation_production_bar_elec_s_37_ec_lv1.0_Ept.png",
     "Title.canvas"
   ]
 }
