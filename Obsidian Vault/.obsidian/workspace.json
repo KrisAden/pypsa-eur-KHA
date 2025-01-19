@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PyPSA-Eur Documentation/Configuration.md",
+                "file": "PyPSA-Eur Documentation/PyPSA-EUR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuration"
+              "title": "PyPSA-EUR"
             }
           }
         ]
@@ -188,17 +188,23 @@
   },
   "active": "10577f670cae75a2",
   "lastOpenFiles": [
-    "PyPSA-Eur Documentation/Snakemake.md",
-    "Untitled.md",
-    "PyPSA-Eur Documentation/PyPSA-EUR.md",
     "PyPSA-Eur Documentation/Configuration.md",
+    "PyPSA-Eur Documentation/Snakemake.md",
+    "PyPSA-Eur Documentation/PyPSA-EUR.md",
+    "File sources/Gøtske m.fl. - 2024 - Designing a sector-coupled European energy system robust to 60 years of historical weather data.pdf",
+    "File sources/Misc Files/Video_Cloud_AU_PyPSA_Install.mp4",
+    "File sources/Tranberg m.fl. - 2018 - Flow-based nodal cost allocation in a heterogeneous highly renewable European electricity network.pdf",
+    "File sources/Pasted image 20250110133304.png",
+    "File sources/Pasted image 20250110133145.png",
+    "Martha presentation 13-11-24.md",
+    "PyPSA-Eur Documentation/PYPSA-EUR workflow/add_electricity.md",
+    "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_bus_regions.md",
+    "Untitled.md",
     "PyPSA-Eur Documentation",
     "File sources/Pasted image 20250110132238.png",
-    "File sources/Pasted image 20250110133304.png",
     "File sources/Pasted image 20250110133238.png",
     "File sources/Pasted image 20250110133220.png",
     "File sources/Pasted image 20250110133155.png",
-    "File sources/Pasted image 20250110133145.png",
     "File sources/Pasted image 20250110133128.png",
     "File sources/Pasted image 20250110132701.png",
     "File sources/Pasted image 20250110132637.png",
@@ -212,9 +218,7 @@
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/retrieve_natura_raster.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_hydro_profile.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_cutout cutout_europe_2013_era5.md",
-    "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_bus_regions.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/base_network.md",
-    "PyPSA-Eur Documentation/PYPSA-EUR workflow/add_electricity.md",
     "Clippings/model.energy.md",
     "Main page.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/Cluster_network clusters_XXX.md",
@@ -224,16 +228,11 @@
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_renewable_profiles technology_onwind.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_renewable_profiles technology_offwind_dc.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_powerplants.md",
-    "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_cutout cutout_europe_2013_sarah.md",
-    "Modelling near optimal solutions.md",
     "base_network.py",
     "add_electricity.py",
-    "File sources/Gøtske m.fl. - 2024 - Designing a sector-coupled European energy system robust to 60 years of historical weather data.pdf",
     "File sources/Misc Files/add_brownfield.py",
     "File sources/Misc Files/_helpers.py",
     "File sources/Misc Files/_benchmark.py",
-    "File sources/Misc Files/__init__.py",
-    "File sources/Misc Files/time_aggregation.py",
     "PYPSA-EUR workflow.canvas",
     "Title.canvas"
   ]
