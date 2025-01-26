@@ -11,14 +11,12 @@
             "id": "10577f670cae75a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "PyPSA-Eur Documentation/PyPSA-EUR.md",
-                "mode": "source",
-                "source": false
+                "file": "File sources/Misc Files/Project proposal.pdf"
               },
-              "icon": "lucide-file",
-              "title": "PyPSA-EUR"
+              "icon": "lucide-file-text",
+              "title": "Project proposal"
             }
           }
         ]
@@ -183,14 +181,15 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "10577f670cae75a2",
   "lastOpenFiles": [
+    "PyPSA-Eur Documentation/PyPSA-EUR.md",
     "PyPSA-Eur Documentation/Configuration.md",
     "PyPSA-Eur Documentation/Snakemake.md",
-    "PyPSA-Eur Documentation/PyPSA-EUR.md",
     "File sources/Gøtske m.fl. - 2024 - Designing a sector-coupled European energy system robust to 60 years of historical weather data.pdf",
     "File sources/Misc Files/Video_Cloud_AU_PyPSA_Install.mp4",
     "File sources/Tranberg m.fl. - 2018 - Flow-based nodal cost allocation in a heterogeneous highly renewable European electricity network.pdf",
