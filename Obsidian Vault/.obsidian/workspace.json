@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "Project proposal"
             }
+          },
+          {
+            "id": "c2dfa7b12d7fa0f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10577f670cae75a2",
+  "active": "c2dfa7b12d7fa0f6",
   "lastOpenFiles": [
     "PyPSA-Eur Documentation/PyPSA-EUR.md",
     "PyPSA-Eur Documentation/Configuration.md",
