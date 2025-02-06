@@ -1,4 +1,19 @@
-Temporal resolution at 3 hours with 37 nodes in the system.
+Temporal resolution at 3 hours based on:
+
+Schyska, B.U., Kies, A., Schlott, M., von
+Bremen, L., and Medjroubi, W. (2021). The
+sensitivity of power system expansion
+models. Joule 5, 2606–2624.
+
+and
+Frysztacki, M.M., Ho¨ rsch, J., Hagenmeyer, V.,
+and Brown, T. (2021). The strong effect of
+network resolution on electricity system
+models with high shares of wind and solar.
+Appl. Energy 291, 116726.
+
+
+with 37 nodes in the system.
 11 generator types
 3 storage types
 Model includes existing infrastructure as well as planend infrastructure operationel in 2030
@@ -28,4 +43,8 @@ https://tyndp.entsoe.eu/tyndp2018
 
 The transmission capacities are clustered to one node per synchronous zone setup with the nodes connected by representative HV AC and HV DC lines.
 
-The models is allowed to expand technology capacity to meet the energy demand and costs are found in table S2 above as well as efficiencies and emissions in table S1 above. the costs are from the techology  catalouge. discount rate of 7% is used as r and n as tyechnical lifetime for anuallization by:
+The models is allowed to expand technology capacity to meet the energy demand and costs are found in table S2 above as well as efficiencies and emissions in table S1 above. the costs are from the technology catalogue. discount rate of 7% is used as r and n as technical lifetime for annualization by:
+
+$$
+a=\frac{1-(1+r)^{{-n}}}{r}
+$$
