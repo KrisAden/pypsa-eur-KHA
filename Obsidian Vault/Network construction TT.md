@@ -21,3 +21,11 @@ energy-generating technologies included are hydro, onshore wind, offshore wind, 
 Hydrogen and battery storage are included.
 
 ![[Supplemental_model_TT.pdf]]
+
+Existing and planned transmission capacities are from:
+
+https://tyndp.entsoe.eu/tyndp2018
+
+The transmission capacities are clustered to one node per synchronous zone setup with the nodes connected by representative HV AC and HV DC lines.
+
+The models is allowed to expand technology capacity to meet the energy demand and costs are found in table S2 above as well as efficiencies and emissions in table S1 above. the costs are from the techology  catalouge. discount rate of 7% is used as r and n as tyechnical lifetime for anuallization by:
