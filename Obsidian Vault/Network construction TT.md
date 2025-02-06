@@ -16,6 +16,8 @@ powerplantmatching v.0.4.1. https://doi.org/10.5281/zenodo.3358985
 The existing renewables are from IRENA. Anual Statistics. Technical Report,
 IRENA. https://www.irena.org/Statistics/Download-Data.
 
-energy-generating technologies included are hydro, onshore
-wind, offshore wind, solar photovoltaic PV, combined cycle gas turbine (CCGT), open cycle gas turbine
-(OCGT), coal, lignite, nuclear, and oil.
+energy-generating technologies included are hydro, onshore wind, offshore wind, solar photovoltaic PV, combined cycle gas turbine (CCGT), open cycle gas turbine (OCGT), coal, lignite, nuclear, and oil.
+
+Hydrogen and battery storage are included.
+
+![[Supplemental_model_TT.pdf]]
