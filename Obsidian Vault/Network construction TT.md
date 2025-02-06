@@ -48,3 +48,19 @@ The models is allowed to expand technology capacity to meet the energy demand an
 $$
 a=\frac{1-(1+r)^{{-n}}}{r}
 $$
+since a 3 hour temporal resoluion is used the transmission and generator capacities have been aggregated as in:
+
+Ho¨ rsch, J., and Brown, T. (2017). The role of
+spatial scale in joint optimisations of
+generation and transmission for european
+
+The national co2 targets are given by the sampler and are not optimized in the model.
+
+Assumptions are:
+perfect competition
+perfect foresight
+long term market equilibrium
+for all nodes and all hours the energy demand must be fulfilled.
+
+
+The demand is from ENTSOE-E (https://www.entsoe.eu/data/data-portal/) and decomposed into resedential and industruial demand by the method used in ()
