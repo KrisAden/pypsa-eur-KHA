@@ -6,4 +6,4 @@ Model includes existing infrastructure as well as planend infrastructure operati
 
 The network is based on the PyPSA-Eur-Sec model: https://zenodo.org/records/4317529
 
-Pareto optimal front as found in the paper was found for a uniform CO2 Price. This is not necessarily what i want. i could instead find the most cost efficient solutions for somme other effort sharing theme. **What does the distribution look like for this cost optimal pareto front in regards to decentralization?**
+Pareto optimal front as found in the paper was found for a uniform CO2 Price. My theory is then that if the co2 prices are allowed to be heterogenous and decentralisation is enforced through self-sufficiency parameters the price should become higher but more politically viable.  
