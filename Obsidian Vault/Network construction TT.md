@@ -63,4 +63,17 @@ long term market equilibrium
 for all nodes and all hours the energy demand must be fulfilled.
 
 
-The demand is from ENTSOE-E (https://www.entsoe.eu/data/data-portal/) and decomposed into resedential and industruial demand by the method used in ()
+The demand is from ENTSOE-E (https://www.entsoe.eu/data/data-portal/) and decomposed into resedential and industruial demand by the method used in (Ho¨ rsch, J., Hofmann, F., Schlachtberger, D.,
+and Brown, T. (2018). Pypsa-eur: an open
+optimisation model of the european
+transmission system. Energy Strategy Rev. 22,
+207–215. https://doi.org/10.1016/j.esr.2018.
+08.012.)
+
+The paper above should also contain the hourly capacity factors for the renewables.
+
+For constructing the pareto front (efficiency scenario) a global co2 constranit has been imposed  as:
+
+$$
+\sum \frac{1}{\eta}_{s}*{g}_{n,s,t}*{e}_{s}-{CAP}_{{CO}_{2}}\leq_{0}
+$$
