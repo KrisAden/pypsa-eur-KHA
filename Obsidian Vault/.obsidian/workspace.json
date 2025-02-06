@@ -215,6 +215,7 @@
   },
   "active": "294b51c6097c771b",
   "lastOpenFiles": [
+    "Pasted image 20250206130307.png",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
     "Network construction TT.md",
     "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf",
@@ -260,7 +261,6 @@
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_renewable_profiles technology_onwind.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_renewable_profiles technology_offwind_dc.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_powerplants.md",
-    "base_network.py",
     "PYPSA-EUR workflow.canvas",
     "Title.canvas"
   ]
