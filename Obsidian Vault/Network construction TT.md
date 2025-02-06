@@ -1,0 +1,1 @@
+Temporal resolution at 3 hours with 37 nodes in the system. 11 generator types 
