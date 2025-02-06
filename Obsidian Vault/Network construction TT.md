@@ -8,4 +8,14 @@ The network is based on the PyPSA-Eur-Sec model: https://zenodo.org/records/4317
 
 Pareto optimal front as found in the paper was found for a uniform CO2 Price. My theory is then that if the co2 prices are allowed to be heterogenous and decentralisation is enforced through self-sufficiency parameters the price should become higher but more politically viable. 
 
-2030 brownfield scenario includes *33?* nodes
+2030 brownfield scenario includes *33?* nodes. EU-27 minus Cyprus and Malta plus Norway, Switzerland, Serbia, Bosnia-Herzegovenia, Albania, Montenegro and UK.
+
+The existing conventional capacities are from Hofmann, F., and Ho¨ rsch, J. (2019). Fresna -
+powerplantmatching v.0.4.1. https://doi.org/10.5281/zenodo.3358985
+
+The existing renewables are from IRENA. Anual Statistics. Technical Report,
+IRENA. https://www.irena.org/Statistics/Download-Data.
+
+energy-generating technologies included are hydro, onshore
+wind, offshore wind, solar photovoltaic PV, combined cycle gas turbine (CCGT), open cycle gas turbine
+(OCGT), coal, lignite, nuclear, and oil.
