@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian tips and tricks.md",
+                "file": "Network construction TT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian tips and tricks"
+              "title": "Network construction TT"
             }
           }
         ],
@@ -215,8 +215,10 @@
   },
   "active": "294b51c6097c771b",
   "lastOpenFiles": [
-    "Network construction TT.md",
+    "Pasted image 20250206135447.png",
+    "Pasted image 20250206135407.png",
     "Obsidian tips and tricks.md",
+    "Network construction TT.md",
     "Main page.md",
     "File sources/Supplemental_model_TT.pdf",
     "Pasted image 20250206130307.png",
@@ -243,7 +245,6 @@
     "File sources/Pasted image 20250110133155.png",
     "File sources/Pasted image 20250110133128.png",
     "File sources/Pasted image 20250110132701.png",
-    "File sources/Pasted image 20250110132637.png",
     "GitHub.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_renewable_profiles technology_offwind_ac.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_renewable_profiles technology_solar.md",

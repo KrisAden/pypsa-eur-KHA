@@ -75,5 +75,8 @@ The paper above should also contain the hourly capacity factors for the renewabl
 For constructing the pareto front (efficiency scenario) a global co2 constranit has been imposed  as:
 
 $$
-\sum \frac{1}{\eta}_{s}*{g}_{n,s,t}*{e}_{s}-{CAP}_{{CO}_{2}}\leq_{0}
+\sum_{n,s,t} \frac{1}{\eta}_{s}\cdot{g}_{n,s,t}\cdot{e}_{s}-{CAP}_{{CO}_{2}}\leq_{0}
 $$
+The CO2 cap is the global emission limit in tons of co2 eta is the efficiency of the technology and e is the intensity of the technology. the minimum of 55% reduction corresponds to 666.85 Mton CO2
+
+![[Pasted image 20250206135407.png]]![[Pasted image 20250206135447.png]]
