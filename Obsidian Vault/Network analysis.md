@@ -64,7 +64,7 @@ powerplantmatching v.0.4.1 \cite{fabianhofmannFRESNAPowerplantmatchingPowerplant
 
 And the existing renewables are from The IRENA online stat tool \cite{irenaIRENASTATOnlineData2023}
 
-The model is however allowed to expand technology capacity to meet energy demand if cost effective. Here the costs and efficiencies are taken from the Danish energy agency technology catalogue
+The model is however allowed to expand technology capacity to meet energy demand if cost effective. Here the costs and efficiencies are taken from the Danish energy agency technology catalogue \cite{energistyrelsenTeknologikatalogProduktionAf2024}
 
 |                  |                |                          |
 | ---------------- | -------------- | ------------------------ |
@@ -77,4 +77,8 @@ The model is however allowed to expand technology capacity to meet energy demand
 | Electrolysis     | 66             | 0                        |
 | Fuel Cell        | 50             | 0                        |
 | Battery inverter | 96             | 0                        |
-
+ Costs are annualized based on technical lifetime and an assumed discount rate of 7% pr. Year according to the following formula:
+$$
+a=\frac{1-(1+r)^{{-n}}}{r}
+$$
+Were r is the discount rate and n is the technical lifetime in years. The expansion costs of new technologies are:
