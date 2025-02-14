@@ -62,7 +62,19 @@ As for the capacities of the energy-generating technologies the system is modell
 The conventional capacities are from The existing conventional capacities are from Hofmann, F., and Hörsch, J. (2019). Fresna -
 powerplantmatching v.0.4.1 \cite{fabianhofmannFRESNAPowerplantmatchingPowerplantmatching2019}
 
-And the existing renewables are from 
+And the existing renewables are from The IRENA online stat tool \cite{irenaIRENASTATOnlineData2023}
 
+The model is however allowed to expand technology capacity to meet energy demand if cost effective. Here the costs and efficiencies are taken from the Danish energy agency technology catalogue
 
-The model is however allowed to expand technology capacity to meet energy demand if cost effective. Here the costs and efficiencies are taken from the Danish energy agency technology
+|                  |                |                          |
+| ---------------- | -------------- | ------------------------ |
+| Technology       | Efficiency [%] | Emissions [ton CO2/MWhe] |
+| OCGT             | 41             | 0.49                     |
+| CCGT             | 58             | 0.34                     |
+| Coal plant       | 33             | 1                        |
+| Lignite plant    | 33             | 1.24                     |
+| Oil plant        | 35             | 0.77                     |
+| Electrolysis     | 66             | 0                        |
+| Fuel Cell        | 50             | 0                        |
+| Battery inverter | 96             | 0                        |
+
