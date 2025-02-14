@@ -47,7 +47,8 @@
               "title": "Network analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,11 +215,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2dfa7b12d7fa0f6",
+  "active": "294b51c6097c771b",
   "lastOpenFiles": [
-    "Network construction TT.md",
     "Network analysis.md",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
+    "Network construction TT.md",
     "File sources/Supplemental_model_TT.pdf",
     "File sources/Misc Files/Project proposal.pdf",
     "File sources/202308 Tim Tørnes Pedersen.pdf",
