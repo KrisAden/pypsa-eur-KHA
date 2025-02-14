@@ -4,4 +4,4 @@ Following is an analysis of the network used by Tim Tørnæs in [[Pedersen m.fl.
 \cite{pedersenUsingModelingAll2023}
 to act as inspiration and a source of knowledge in regards to good practices when designing the network.
 
-In his PhD thesis
+In his PhD thesis [[202308 Tim Tørnes Pedersen.pdf]]
