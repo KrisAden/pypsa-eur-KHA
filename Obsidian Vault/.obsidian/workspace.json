@@ -47,8 +47,7 @@
               "title": "Network analysis"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +214,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf417e6803f1ac2d",
+  "active": "c2dfa7b12d7fa0f6",
   "lastOpenFiles": [
     "Network construction TT.md",
     "Network analysis.md",
