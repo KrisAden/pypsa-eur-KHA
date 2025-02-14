@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10577f670cae75a2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "File sources/Misc Files/Project proposal.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Project proposal"
-            }
-          },
-          {
             "id": "c2dfa7b12d7fa0f6",
             "type": "leaf",
             "state": {
@@ -60,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,13 +215,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf417e6803f1ac2d",
+  "active": "294b51c6097c771b",
   "lastOpenFiles": [
-    "File sources/Supplemental_model_TT.pdf",
-    "Network construction TT.md",
-    "File sources/Misc Files/Project proposal.pdf",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
     "Network analysis.md",
+    "Network construction TT.md",
+    "File sources/Supplemental_model_TT.pdf",
+    "File sources/Misc Files/Project proposal.pdf",
     "File sources/202308 Tim Tørnes Pedersen.pdf",
     "Pasted image 20250206135447.png",
     "Pasted image 20250206135407.png",

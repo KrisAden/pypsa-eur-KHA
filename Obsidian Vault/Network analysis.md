@@ -59,5 +59,10 @@ As for the capacities of the energy-generating technologies the system is modell
 | SI      | 0             | 0            | 861.3         | 251.8    | 832     | 449    | 246     | 944     | 727     | 143.6  |
 | SK      | 0             | 0            | 641.3         | 533      | 648     | 0      | 440     | 486     | 1940    | 0      |
 
+The conventional capacities are from The existing conventional capacities are from Hofmann, F., and Hörsch, J. (2019). Fresna -
+powerplantmatching v.0.4.1 \cite{fabianhofmannFRESNAPowerplantmatchingPowerplantmatching2019}
+
+And the existing renewables are from 
+
 
 The model is however allowed to expand technology capacity to meet energy demand if cost effective. Here the costs and efficiencies are taken from the Danish energy agency technology
