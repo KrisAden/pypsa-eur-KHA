@@ -49,12 +49,14 @@
             "id": "cf417e6803f1ac2d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "File sources/Supplemental_model_TT.pdf"
+                "file": "Network analysis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Supplemental_model_TT"
+              "icon": "lucide-file",
+              "title": "Network analysis"
             }
           }
         ],
@@ -115,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "42922066fe6f93d7",
@@ -228,16 +229,17 @@
   },
   "active": "cf417e6803f1ac2d",
   "lastOpenFiles": [
+    "File sources/Supplemental_model_TT.pdf",
+    "Network construction TT.md",
+    "File sources/Misc Files/Project proposal.pdf",
+    "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
     "Network analysis.md",
     "File sources/202308 Tim Tørnes Pedersen.pdf",
-    "Network construction TT.md",
     "Pasted image 20250206135447.png",
     "Pasted image 20250206135407.png",
     "Obsidian tips and tricks.md",
     "Main page.md",
-    "File sources/Supplemental_model_TT.pdf",
     "Pasted image 20250206130307.png",
-    "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
     "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf",
     "File sources/Lau m.fl. - 2024 - Measuring exploration evaluation of modelling to generate alternatives methods in capacity expansio.pdf",
     "File sources/Gøtske m.fl. - 2024 - Designing a sector-coupled European energy system robust to 60 years of historical weather data.pdf",
@@ -247,7 +249,6 @@
     "PyPSA-Eur Documentation/PyPSA-EUR.md",
     "PyPSA-Eur Documentation/Configuration.md",
     "PyPSA-Eur Documentation/Snakemake.md",
-    "File sources/Tranberg m.fl. - 2018 - Flow-based nodal cost allocation in a heterogeneous highly renewable European electricity network.pdf",
     "File sources/Pasted image 20250110133304.png",
     "File sources/Pasted image 20250110133145.png",
     "Martha presentation 13-11-24.md",
