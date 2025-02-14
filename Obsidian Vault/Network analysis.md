@@ -82,3 +82,25 @@ $$
 a=\frac{1-(1+r)^{{-n}}}{r}
 $$
 Were r is the discount rate and n is the technical lifetime in years. The expansion costs of new technologies are:
+
+| Technology                                         | Capital cost [Eur/kW] | FOM [%/year] | VOM [Eur/MWh] | Lifetime [years] |
+| -------------------------------------------------- | --------------------- | ------------ | ------------- | ---------------- |
+| OCGT                                               | 435.2                 | 1.78         | 4.5           | 25               |
+| Offshore wind turbine                              | 1573.2                | 2.29         | 2.67          | 30               |
+| Offshore wind AC connection submarine              | 2685.0*               | 0            | 0             | 30               |
+| Offshore wind AC connection underground            | 1342.0*               | 0            | 0             | 30               |
+| Offshore wind AC station                           | 250                   | 0            | 0             | 30               |
+| Offshore wind DC connection submarine              | 2000.0*               | 0            | 0             | 30               |
+| Offshore wind DC connection underground            | 1000.0*               | 0            | 0             | 30               |
+| Offshore wind DC station                           | 400                   | 0            | 0             | 30               |
+| Onshore wind                                       | 1035.6                | 1.22         | 1.35          | 30               |
+| Utility scale solar PV                             | 376.3                 | 1.93         | 0             | 40               |
+| Electrolysis                                       | 550                   | 5.0          | 0             | 25               |
+| Fuel cell                                          | 1100                  | 5.0          | 0             | 10               |
+| Hydrogen storage tank                              | 44.0**                | 1.11         | 0             | 30               |
+| Hydrogen underground storage                       | 2.0**                 | 0            | 0             | 100              |
+| Battery inverter                                   | 160                   | 0.34         | 0             | 25               |
+| Battery storage                                    | 142.0**               | 0            | 0             | 25               |
+
+*Eur/MW/km  
+**Eur/kWh
