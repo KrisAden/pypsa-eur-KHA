@@ -9,7 +9,7 @@ In his PhD thesis [[202308 Tim Tørnes Pedersen.pdf]]
 Tim Tørnæs states the following in regards to the network used in the paper:
 
 "
-The developed MAA method is applied to the **PyPSA-Eur-30** model, an ESOM representing the European electricity supply, to demonstrate the use of the method. **The PyPSA-Eur-30 model builds on the PyPSA framework** and represents the European electricity supply **as a 30-node graph (one noder per country) with 50 50 cross-border AC and DC transmission lines.**
+The developed MAA method is applied to the **PyPSA-Eur-30** model, an ESOM representing the European electricity supply, to demonstrate the use of the method. **The PyPSA-Eur-30 model builds on the PyPSA framework** and represents the European electricity supply **as a 30-node graph (one noder per country) with 50 cross-border AC and DC transmission lines.**
 
 **The PyPSA-Eur-30 model is the predecessor to the currently developed PyPSA-EUR and PyPSA-Eur-sec models.** The goal of this paper was primarily to demonstrate the MAA method and its capabilities. Therefore, the PyPSA-Eur-30 model was configured to be complex enough to produce exciting and thrust-worthy results but still simple enough to keep solving times within a reasonable time frame. A more straightforward, rather than highly complex, model would also make the interpretation of model results more straightforward, allowing the focus to be placed on the benefits and potential of applying the MAA method in combination with the energy system model.
 
