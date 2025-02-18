@@ -115,3 +115,4 @@ Were r is the discount rate and n is the technical lifetime in years. The expans
 *Eur/MW/km  
 **Eur/kWh
 
+The energy demand-, or Load-timeseries, 
