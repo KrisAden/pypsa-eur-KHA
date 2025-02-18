@@ -117,4 +117,14 @@ Were r is the discount rate and n is the technical lifetime in years. The expans
 
 The energy demand-, or Load-timeseries, is found through ENTSOE-E's database at https://www.entsoe.eu/data/power-stats/. It is then decomposed into electricity used for industry and electricity used for residential purposes. This is done according to the method used in \cite{horschPyPSAEurOpenOptimisation2018} section 2.6 where 60% of the Gross domestic product is attributed to industry and 40% is attributed to residency based of th population in the Voronoi cell.
 
-As for the renewable capacity factors this can probably be found through IREN
+As for the renewable capacity factors this can probably be found through IRENASTAT:
+https://pxweb.irena.org/pxweb/en/IRENASTAT
+
+In addition some assumptions must be made:
+- perfect competition
+- perfect foresight
+- long term market equilibrium
+- for all nodes and all hours the energy demand must be fulfilled.
+
+The following is known about the network:
+"elec_s_37_lv1__Co2L0p55-3H-solar+p3_2030_f.nc"
