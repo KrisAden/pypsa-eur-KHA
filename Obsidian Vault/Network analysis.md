@@ -128,3 +128,18 @@ In addition some assumptions must be made:
 
 The following is known about the network:
 "elec_s_37_lv1__Co2L0p55-3H-solar+p3_2030_f.nc"
+Which was used to construct the Pareto optimal front.
+
+| Component name   | Number of entries |
+| ---------------- | ----------------- |
+| Bus              | 118               |
+| Carrier          | 15                |
+| GlobalConstraint | 2                 |
+| Line             | 52                |
+| LineType         | 35                |
+| TransformerType  | 24                |
+| Link             | 494               |
+| Load             | 37                |
+| Generator        | 406               |
+| StorageUnit      | 48                |
+| Store            | 81                |
