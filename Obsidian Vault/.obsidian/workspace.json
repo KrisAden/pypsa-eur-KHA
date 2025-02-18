@@ -46,9 +46,19 @@
               "icon": "lucide-file",
               "title": "Network analysis"
             }
+          },
+          {
+            "id": "d096ed5d7f0797f9",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,13 +221,14 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf417e6803f1ac2d",
+  "active": "d096ed5d7f0797f9",
   "lastOpenFiles": [
-    "Network construction TT.md",
     "Network analysis.md",
+    "Network construction TT.md",
     "File sources/Hörsch m.fl. - 2018 - PyPSA-Eur An open optimisation model of the European transmission system.pdf",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
     "File sources/Supplemental_model_TT.pdf",
