@@ -11,14 +11,12 @@
             "id": "cf417e6803f1ac2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Network analysis.md",
-                "mode": "source",
-                "source": false
+                "file": "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Network analysis"
+              "icon": "lucide-file-text",
+              "title": "Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity"
             }
           }
         ]
@@ -191,9 +189,9 @@
   },
   "active": "cf417e6803f1ac2d",
   "lastOpenFiles": [
+    "Network analysis.md",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
     "Network construction TT.md",
-    "Network analysis.md",
     "File sources/Hörsch m.fl. - 2018 - PyPSA-Eur An open optimisation model of the European transmission system.pdf",
     "File sources/Supplemental_model_TT.pdf",
     "File sources/Misc Files/Project proposal.pdf",
