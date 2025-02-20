@@ -56,9 +56,21 @@
               "icon": "projects-icon",
               "title": "Projects"
             }
+          },
+          {
+            "id": "6f7dde0078e41874",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,11 +233,10 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d096ed5d7f0797f9",
+  "active": "6f7dde0078e41874",
   "lastOpenFiles": [
     "Network analysis.md",
     "Network construction TT.md",
