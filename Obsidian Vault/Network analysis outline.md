@@ -28,7 +28,9 @@ $$
 The reward will be defined as an increase in the mean Gini coefficients for the nodes indicating increasing self sufficiency.
 
 $$
-R_{+}=\frac{1}{N}\sum_{n=1}^{s}{}
+R_{+}=\frac{1}{N}\sum_{n=1}^{N}{G(n)}
 $$
+Where the Gini coefficient is defin
+
 
 When done for all points on the cost optimal frontier a portfolio of near optimum solutions will have been defined. Through evaluation of the risk and reward the Pareto of this portfolio can be found showing the most cost efficient solutions that increase self-suffiency when heterogenous co2 emission prices are allowed.
