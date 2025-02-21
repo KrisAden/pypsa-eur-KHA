@@ -5,5 +5,22 @@ The network is a precompiled electricity-only network with 37 provided by \cite{
 
 This repository contains a number of pre-built and pre-compiled networks made with the PyPSA-Eur default configuration.
 
-The developed network contains 33 nodes, the EU-27 minus Cyprus and Malta (who are islands states and thus not interconnected) as well as Norway, Switzerland, Serbia, Bosnia-Herzegovina, Albania, Montenegro and UK. In addition the following four countries: 
+The developed network contains 33 nodes, the EU-27 minus Cyprus and Malta (who are islands states and thus not interconnected) as well as Norway, Switzerland, Serbia, Bosnia-Herzegovina, Albania, Montenegro and UK. In addition the following four countries all have two nodes:
+Denmark, United Kingdom, Spain and Italy. The nodes can be seen in the figure below:
+![[Pasted image 20250221094352.png]]
 
+Each node has a mix of energy generating technologies or "Busses". Included in this model are fifteen different energy producting technologies. These are:
+
+The dispatchable energy-generating technologies included in the model are open cycle gas turbines (OCGT), combined cycle and gas turbines (CCGT), biomass combustion, coal combustion, oil combustion, lignite combustion, and nuclear p  hydro, onshore wind, offshore wind, solar photovoltaic PV,   coal combustion, lignite combustion, nuclear and oil combustion.
+
+
+geothermal
+
+nuclear
+onwind
+offwind-ac
+offwind-dc
+solar
+PHS
+hydro
+ror

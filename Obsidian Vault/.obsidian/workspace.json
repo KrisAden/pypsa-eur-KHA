@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main page.md",
+                "file": "Network analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main page"
+              "title": "Network analysis"
             }
           },
           {
@@ -222,11 +222,11 @@
   "lastOpenFiles": [
     "elec_s_37.nc.md",
     "Network analysis outline.md",
+    "Network analysis.md",
+    "Network construction TT.md",
+    "Main page.md",
     "Martha presentation 13-11-24.md",
     "Modelling near optimal solutions.md",
-    "Network analysis.md",
-    "Main page.md",
-    "Network construction TT.md",
     "LaTEX.md",
     "Pasted image 20250221094352.png",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
