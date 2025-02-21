@@ -22,9 +22,14 @@ The nodes are connected by 51 AC lines divided into 35 different types of connec
 Once the network is defined the first step is to construct the homogenous cost optimal frontier. This will be done by sweeping over a range of co2 reductions and cost optimizing the network in order to find the cheapest possible system that achieves the reduction.
 
 $$
-\text{annualized total system costs}
+\text{annualized total system costs}=\text{min}(\sum_{n,s}{(\text{generation costs}+\text{storage costs}+\text{transmission costs})}\sum_{n,s,t}{\text{variable costs}})
 $$
 
+subject to the following constraints:
+
+$$
+
+$$
 
 This frontier will act as the starting point for the sampling of the near optimal solution space. For each point on the cost optimal frontier a set of near optimal solutions will be found through sampling based on introducing noise to the now heterogenous co2 pricing. Additionally a risk-reward function will be defined for the solutions. Here the risk will be a percentage increase in price when compared to the corresponding point on the cost optimal frontier. 
 
