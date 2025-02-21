@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction outline.md",
+                "file": "Network analysis outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction outline"
+              "title": "Network analysis outline"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,16 +217,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a8256384fd0f53d",
+  "active": "7d317d4422bc310e",
   "lastOpenFiles": [
-    "Main page.md",
-    "LaTEX.md",
-    "Introduction outline.md",
     "Network analysis.md",
+    "Main page.md",
     "elec_s_37.nc.md",
+    "Modelling near optimal solutions.md",
+    "Network construction TT.md",
+    "Network analysis outline.md",
+    "LaTEX.md",
     "Pasted image 20250221094352.png",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
-    "Network construction TT.md",
     "File sources/Hörsch m.fl. - 2018 - PyPSA-Eur An open optimisation model of the European transmission system.pdf",
     "File sources/Supplemental_model_TT.pdf",
     "File sources/Misc Files/Project proposal.pdf",
@@ -264,7 +265,6 @@
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/Cluster_network clusters_XXX.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/simplify_network network_elec_simpl.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/retrive_databundle.md",
-    "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_shapes.md",
     "PYPSA-EUR workflow.canvas",
     "Title.canvas"
   ]

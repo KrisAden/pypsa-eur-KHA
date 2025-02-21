@@ -1,0 +1,4 @@
+In the following section the underlying network model will be analysed in order to provide provide a base understanding of the system structure.
+The purpose of the energy system network is to act as the “base layer” on which the optimization routines will act. The structure of the network is of critical importance as the limitations and bounds of technologies, availability of resources, transmission capacities, environmental impacts and so forth all have to be predefined before the actual energy system model can be properly defined and constrained.
+
+The network is a precompiled electricity-only network with 37 provided by 
