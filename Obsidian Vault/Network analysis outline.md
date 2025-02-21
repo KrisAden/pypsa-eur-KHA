@@ -36,10 +36,18 @@ $$
 which describes how generation and balance must meet the demand:
 
 $$
-\sum_{s}{\text{generation}_{s,t,n}+\text{balance}_{t,n}=}
+\sum_{s}{\text{generation}_{s,t,n}+\text{balance}_{t,n}=\text{demand}_{t,n}}\leftrightarrow\lambda_{t,n}
 $$
+Here the Lagrange multiplier corresponds to the spot price.
 
-This frontier will act as the starting point for the sampling of the near optimal solution space. For each point on the cost optimal frontier a set of near optimal solutions will be found through sampling based on introducing noise to the now heterogenous co2 pricing. Additionally a risk-reward function will be defined for the solutions. Here the risk will be a percentage increase in price when compared to the corresponding point on the cost optimal frontier. 
+The other constraint pertains to the co2 emissions:
+
+$$
+\sum{\text{emissions}}\leq CAP_{CO_{2}}\leftrightarrow \mu_{CO_{2}}
+$$
+Where the Lagrange multiplier corresponds to the co2 emission price.
+
+This cost optimal frontier will act as the starting point for the sampling of the near optimal solution space. For each point on the cost optimal frontier a set of near optimal solutions will be found through sampling based on introducing noise to the now heterogenous co2 pricing. Additionally a risk-reward function will be defined for the solutions. Here the risk will be a percentage increase in price when compared to the corresponding point on the cost optimal frontier. 
 
 $$
 R_{-}=\frac{C_{i}-C_{opt}}{C_{opt}}
