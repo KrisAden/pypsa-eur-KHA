@@ -19,7 +19,14 @@ The nodes are connected by 51 AC lines divided into 35 different types of connec
 
 # Methodology overview
 
-Once the network is defined the first step is to construct the homogenous cost optimal frontier. This will be done by sweeping over a range of co2 reductions and cost optimizing the network in order to find the cheapest possible system that achieves the reduction. This frontier will act as the starting point for the sampling of the near optimal solution space. For each point on the cost optimal frontier a set of near optimal solutions will be found through sampling based on introducing noise to the now heterogenous co2 pricing. Additionally a risk-reward function will be defined for the solutions. Here the risk will be a percentage increase in price when compared to the corresponding point on the cost optimal frontier. 
+Once the network is defined the first step is to construct the homogenous cost optimal frontier. This will be done by sweeping over a range of co2 reductions and cost optimizing the network in order to find the cheapest possible system that achieves the reduction.
+
+$$
+\text{annualized total system costs}
+$$
+
+
+This frontier will act as the starting point for the sampling of the near optimal solution space. For each point on the cost optimal frontier a set of near optimal solutions will be found through sampling based on introducing noise to the now heterogenous co2 pricing. Additionally a risk-reward function will be defined for the solutions. Here the risk will be a percentage increase in price when compared to the corresponding point on the cost optimal frontier. 
 
 $$
 R_{-}=\frac{C_{i}-C_{opt}}{C_{opt}}
@@ -35,6 +42,5 @@ Where the Gini coefficient is defined as:
 $$
 G=\frac{\sum_{{i=1}}^{N}{\sum_{j=1}^{N}{|X_{i}-X_{j}|}}}{2\cdot N^{2}\cdot\overline{X}}
 $$
-Where $X_{i}$ is 
-
+Where $X_{i}$ is the energy self sufficiency of node $i$, $N$ is the total number of nodes and $\overline{X}$ is the mean self-suffiency of the nodes.
 When done for all points on the cost optimal frontier a portfolio of near optimum solutions will have been defined. Through evaluation of the risk and reward the Pareto of this portfolio can be found showing the most cost efficient solutions that increase self-suffiency when heterogenous co2 emission prices are allowed.
