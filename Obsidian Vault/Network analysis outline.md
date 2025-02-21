@@ -16,3 +16,7 @@ The dispatchable energy-generating technologies included in the model are open c
 Non-dispatchable busses include run-of-river, onshore wind, offshore wind (both AC and DC), solar photovoltaic PV, geothermal and hydro energy.
 
 The nodes are connected by 51 AC lines divided into 35 different types of connection and 43 HVDC links. Transformation is handled by 43 different types of transformers at the nodes. In total The network contains 283 generator units and 49 storage units. 
+
+# Methodology overview
+
+Once the network is defined the first step is to construct the homogenous cost optimal frontier. This will be done by sweeping over a range of co2 reductions and cost optimizing the network in order to find the cheapest possible system that achieves the reduction. This frontier will act as the starting point for the sampling of the near optimal solution space. For each point on the cost optimal frontier a set of near optimal solutions will be found through sampling based on introducing   
