@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "42922066fe6f93d7",
@@ -219,12 +220,13 @@
   },
   "active": "7d317d4422bc310e",
   "lastOpenFiles": [
+    "elec_s_37.nc.md",
+    "Network analysis outline.md",
+    "Martha presentation 13-11-24.md",
+    "Modelling near optimal solutions.md",
     "Network analysis.md",
     "Main page.md",
-    "elec_s_37.nc.md",
-    "Modelling near optimal solutions.md",
     "Network construction TT.md",
-    "Network analysis outline.md",
     "LaTEX.md",
     "Pasted image 20250221094352.png",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
@@ -246,7 +248,6 @@
     "PyPSA-Eur Documentation/Snakemake.md",
     "File sources/Pasted image 20250110133304.png",
     "File sources/Pasted image 20250110133145.png",
-    "Martha presentation 13-11-24.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/add_electricity.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_bus_regions.md",
     "File sources/Pasted image 20250110132238.png",
