@@ -9,7 +9,7 @@ ES
 GB
 IT
 
-Adding up to the total 37 nodes. These nodes are connected by 51 Lines composed of 35 linetypes
+Adding up to the total 37 nodes. These nodes are connected by 51 Lines (AC) composed of 35 linetypes. The electricity is transformed through 14 different transformer-types and distributed through 43 Links (HVDC).
 
 The Network has 15 carriers:
 CCGT
@@ -27,4 +27,6 @@ solar
 PHS
 hydro
 ror
+
+There are a total of 283 generator units and 49 storage units
 
