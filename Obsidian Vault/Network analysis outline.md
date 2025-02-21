@@ -65,3 +65,4 @@ G=\frac{\sum_{{i=1}}^{N}{\sum_{j=1}^{N}{|X_{i}-X_{j}|}}}{2\cdot N^{2}\cdot\overl
 $$
 Where $X_{i}$ is the energy self sufficiency of node $i$, $N$ is the total number of nodes and $\overline{X}$ is the mean self-suffiency of the nodes.
 When done for all points on the cost optimal frontier a portfolio of near optimum solutions will have been defined. Through evaluation of the risk and reward the Pareto of this portfolio can be found showing the most cost efficient solutions that increase self-suffiency when heterogenous co2 emission prices are allowed.
+
