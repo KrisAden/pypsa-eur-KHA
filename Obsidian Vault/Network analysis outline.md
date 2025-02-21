@@ -11,13 +11,13 @@ Denmark, United Kingdom, Spain and Italy. The nodes can be seen in the figure be
 
 Each node has a mix of energy generating technologies or "Busses". Included in this model are fifteen different energy producting technologies. These are:
 
-The dispatchable energy-generating technologies included in the model are open cycle gas turbines (OCGT), combined cycle and gas turbines (CCGT), biomass combustion, coal combustion, oil combustion, lignite combustion, and nuclear p  hydro, onshore wind, offshore wind, solar photovoltaic PV,   coal combustion, lignite combustion, nuclear and oil combustion.
+The dispatchable energy-generating technologies included in the model are open cycle gas turbines (OCGT), combined cycle and gas turbines (CCGT), biomass combustion, coal combustion, oil combustion, lignite combustion, and nuclear power production. In addition pumped hydro storage is also considered dispatchable although with the constraint that the energy must have been stored previously.
+
+Non-dispatchable busses include run-of-river, onshore wind, offshore wind (both AC and DC), solar photovoltaic PV, geothermal
 
 
-geothermal
 
-nuclear
-onwind
+
 offwind-ac
 offwind-dc
 solar
