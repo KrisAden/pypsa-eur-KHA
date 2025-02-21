@@ -28,5 +28,5 @@ PHS
 hydro
 ror
 
-There are a total of 283 generator units and 49 storage units
+There are a total of 283 generator units and 49 storage units.
 
