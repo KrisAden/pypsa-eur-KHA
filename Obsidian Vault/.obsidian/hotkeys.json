@@ -6,5 +6,13 @@
       ],
       "key": "K"
     }
+  ],
+  "3d-graph-new:open-3d-graph-global": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
   ]
 }
