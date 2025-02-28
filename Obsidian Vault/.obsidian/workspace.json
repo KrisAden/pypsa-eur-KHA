@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "792ca88de580d008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting Summaries/28-02-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28-02-2025"
+            }
+          },
+          {
             "id": "3a8256384fd0f53d",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "elec_s_37.nc"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,11 +218,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95023af587303dde",
+  "active": "792ca88de580d008",
   "lastOpenFiles": [
-    "Untitled",
     "Network analysis outline.md",
     "Network analysis.md",
+    "Meeting Summaries/28-02-2025.md",
+    "Meeting Summaries",
     "elec_s_37.nc.md",
     "Martha presentation 13-11-24.md",
     "File sources/Hörsch and Brown - 2017 - The role of spatial scale in joint optimisations of generation and transmission for European highly.pdf",
@@ -228,7 +244,6 @@
     "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf",
     "File sources/Lau m.fl. - 2024 - Measuring exploration evaluation of modelling to generate alternatives methods in capacity expansio.pdf",
     "File sources/Gøtske m.fl. - 2024 - Designing a sector-coupled European energy system robust to 60 years of historical weather data.pdf",
-    "File sources/Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system.pdf",
     "PyPSA-Eur Documentation/PyPSA-EUR.md",
     "PyPSA-Eur Documentation/Configuration.md",
     "PyPSA-Eur Documentation/Snakemake.md",
