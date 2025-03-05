@@ -1,0 +1,1 @@
+It is no secret that the global climate crisis will bring major challenges for the future of the European electricity sector. As European energy production transitions towards renewable energy sources, planning
