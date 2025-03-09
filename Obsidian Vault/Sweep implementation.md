@@ -2,4 +2,9 @@ In order to begin exploring the solution space it must first be bounded by the g
 
 this repository contains pre-built network models produced by the PyPSA-eur default configuration and comes in a varying amount of nodes clustered by the k-means method \cite{BuildingElectricityNetworksa}
 
-The provided levels a
+The provided levels are:
+- 1024
+- 512
+- 256
+- 128
+- 37
