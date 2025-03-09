@@ -17,7 +17,7 @@ Additionally the following countries all have 2 nodes: Denmark, Spain, United Ki
 The clustering of nodes of course raises the question of the effects which the procedure will have upon the outcomes of the optimization problem. According to \cite{schaferScalingTransmissionCapacities2017} 
 "By changing the network topology as well as the spatio-temporal pattern of nodal power injections, this coarse-graining procedure has in particular an impact on the power flows and the resulting transmission infrastructure needs proposed by the model."
 
-The paper, which analyses the impacts of this "coarse graining" goes on to find that although the clustering has a noticeable impact on the power flow distribution pattern, the required transmission capacity and cost of tranmission infrastructure scales "weakly" with the spatial resolution of the network.
+The paper, which analyses the impacts of this "coarse graining" goes on to find that although the clustering has a noticeable impact on the power flow distribution pattern, the required transmission capacity and cost of tranmission infrastructure scales "weakly" with the spatial resolution of the network. One reason f
 As a result of these findings it is assumed that the 37 node spatial resolution of the  network will be sufficient for the purpose of this paper.
 
-As for the temporal resolution of the load, patterns and the capacity factors of the renewable energy technologies. The precompiled networks have data on an hourly basis.
+As for the temporal resolution of the load, patterns and the capacity factors of the renewable energy technologies. The precompiled networks have data on an hourly basis. According to \cite{schyskaSensitivityPowerSystem2021a} Power expansion energy models are particularly sensitive to temporal resolution as 
