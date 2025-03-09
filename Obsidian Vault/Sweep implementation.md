@@ -8,3 +8,5 @@ The provided levels are:
 - 256
 - 128
 - 37
+
+Here the 37 node network represent the EU-27  as well as Albania, Bosnia and Herzegovinia, Montenegro, North Maced
