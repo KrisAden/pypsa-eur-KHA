@@ -32,5 +32,6 @@ Non-dispatchable busses include run-of-river, onshore wind, offshore wind (both 
 
 The nodes are connected by 51 AC lines divided into 35 different types of connection and 43 HVDC links. Transformation is handled by 43 different types of transformers at the nodes. In total The network contains 283 generator units and 49 storage units. 
 
-The modelled capacities of the energy generation, both renewable and non-renewable, as well as existing transmission capacity and electricity load 
+The modelled capacities of the energy generation, both renewable and non-renewable, as well as existing transmission capacity and electricity load time series are all provided through PyPSA-EUR.
 
+For renewable energy technologies the existing capacity PyPSA-PyPSA calculates installable capacity (for renewable energy expansion) and the capacity factor time series based on land availabillity as defined by GIS datasets like 
