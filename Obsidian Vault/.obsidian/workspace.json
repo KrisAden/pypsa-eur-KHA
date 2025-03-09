@@ -218,6 +218,7 @@
   },
   "active": "6dd03a145c43197f",
   "lastOpenFiles": [
+    "File sources/Horsch and Brown - 2017 - The role of spatial scale in joint optimisations of generation and transmission for European highly.pdf",
     "Network analysis outline.md",
     "Sweep implementation.md",
     "Introduction.md",
@@ -263,7 +264,6 @@
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/retrieve_natura_raster.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_hydro_profile.md",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_cutout cutout_europe_2013_era5.md",
-    "PyPSA-Eur Documentation/PYPSA-EUR workflow/base_network.md",
     "PYPSA-EUR workflow.canvas",
     "Title.canvas"
   ]
