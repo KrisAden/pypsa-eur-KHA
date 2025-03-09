@@ -9,4 +9,8 @@ The provided levels are:
 - 128
 - 37
 
-Here the 37 node network represent the EU-27  as well as Albania, Bosnia and Herzegovinia, Montenegro, North Maced
+Here the 37 node network represent the EU-27 (excluding the island states of Malta and Cyprus) as well as Albania, Bosnia and Hercegovina, Montenegro, North Macedonia, Norway, Serbia, Switzerland, and The United Kingdom.
+
+Additionally the following countries all have 2 nodes: Denmark, Spain, United Kingdom, and Italy. The layout of the nodes can be seen in the figure below:
+![[Pasted image 20250221094352.png]]
+
