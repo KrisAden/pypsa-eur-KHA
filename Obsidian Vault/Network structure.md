@@ -1,6 +1,6 @@
 In order to begin exploring the solution space it must first be bounded by the governing equations contained within a network model. For the purpose of this project the open source PyPSA-Eur framework was used as a basis for the networks. According to the framework developers "**PyPSA-Eur** is an open model dataset of the European power system at the transmission network level that covers the full ENTSO-E area." \cite{horschPyPSAEurOpenOptimisation2018}
 
-this repository contains pre-built network models produced by the PyPSA-eur default configuration and comes in a varying amount of nodes clustered by the k-means method \cite{BuildingElectricityNetworksa}
+This repository contains pre-built network models produced by the PyPSA-eur default configuration and comes in a varying amount of nodes clustered by the k-means method \cite{BuildingElectricityNetworksa}
 
 The provided levels are:
 - 1024
@@ -22,4 +22,15 @@ As a result of these findings it is assumed that the 37 node spatial resolution 
 
 As for the temporal resolution of the load, patterns and the capacity factors of the renewable energy technologies. The precompiled networks have data on an hourly basis. The same paper concludes that temporal resolution  "...leads to significant differences in the optimal capacity deployment..."
 
-This is caused by the fact that decreasing temporal resolution acts as a filter that smoothes out variability and thus leads especially to changes in necessary storage capacity. 
+This is caused by the fact that decreasing temporal resolution acts as a filter that smoothes out variability and thus leads especially to changes in necessary storage capacity.  The paper does go on to conclude that a 1-hor temporal resolution is sufficient to capture most system fluctuations.
+
+As for the energy producing technologies each node has a mix of energy generating technologies or "Busses". Included in this model are fifteen different energy producing technologies. These are:
+
+The dispatchable energy-generating technologies included in the model are open cycle gas turbines (OCGT), combined cycle and gas turbines (CCGT), biomass combustion, coal combustion, oil combustion, lignite combustion, and nuclear power production. In addition pumped hydro storage is also considered dispatchable although with the constraint that the energy must have been stored previously.
+
+Non-dispatchable busses include run-of-river, onshore wind, offshore wind (both AC and DC), solar photovoltaic PV, geothermal and hydro energy.
+
+The nodes are connected by 51 AC lines divided into 35 different types of connection and 43 HVDC links. Transformation is handled by 43 different types of transformers at the nodes. In total The network contains 283 generator units and 49 storage units. 
+
+The modelled capacities of the energy generation, both renewable and non-renewable, as well as existing transmission capacity and electricity load 
+
