@@ -14,3 +14,7 @@ Here the 37 node network represent the EU-27 (excluding the island states of Mal
 Additionally the following countries all have 2 nodes: Denmark, Spain, United Kingdom, and Italy. The layout of the nodes can be seen in the figure below:
 ![[Pasted image 20250221094352.png]]
 
+The clustering of nodes of course raises the question of the effects which the procedure will have upon the outcomes of the optimization problem. According to \cite{schaferScalingTransmissionCapacities2017} 
+"By changing the network topology as well as the spatio-temporal pattern of nodal power injections, this coarse-graining procedure has in particular an impact on the power flows and the resulting transmission infrastructure needs proposed by the model."
+
+The paper, which analyses the impacts of this "coarse graining" goes on to find that although the clustering has a noticeable impact on the po
