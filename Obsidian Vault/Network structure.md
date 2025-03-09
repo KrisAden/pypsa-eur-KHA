@@ -34,7 +34,6 @@ The nodes are connected by 51 AC lines divided into 35 different types of connec
 
 The modelled capacities of the energy generation, both renewable and non-renewable, as well as existing transmission capacity and electricity load time series are all provided through PyPSA-EUR.
 
-For renewable energy technologies the existing capacity PyPSA-PyPSA calculates installable capacity (for renewable energy expansion) and the capacity factor time series based on land availability as defined by GIS datasets like CORINE, LUISA, Natura 2000, GEBCO and shipping lanes \cite{BuildingElectricityNetworksb}. This is then converted to energy systems data using th atlite library \cite{hofmannAtliteLightweightPython2021}.
+For renewable energy technologies the existing capacity PyPSA-PyPSA calculates installable capacity (for renewable energy expansion) and the capacity factor time series based on land availability as defined by GIS datasets like CORINE, LUISA, Natura 2000, GEBCO and shipping lanes \cite{BuildingElectricityNetworksb}. This is then converted to energy systems data using the atlite library \cite{hofmannAtliteLightweightPython2021}.
 
-Capacity factors are defined as the 
 
