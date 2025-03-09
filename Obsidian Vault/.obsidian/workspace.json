@@ -34,15 +34,17 @@
             }
           },
           {
-            "id": "4170523ef866af6f",
+            "id": "6dd03a145c43197f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Sweep implementation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Sweep implementation"
             }
           }
         ],
@@ -210,16 +212,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "obsidian-git:Open Git source control": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4170523ef866af6f",
+  "active": "6dd03a145c43197f",
   "lastOpenFiles": [
+    "Network analysis outline.md",
+    "Sweep implementation.md",
     "Introduction.md",
     "elec_s_37.nc.md",
     "File sources/Misc Files/Project proposal.pdf",
     "Network construction TT.md",
-    "Network analysis outline.md",
     "Meeting Summaries/28-02-2025.md",
     "Meeting Summaries/06-02-2025.md",
     "File sources/Schlott m.fl. - 2019 - The effect of inhomogeneous carbon prices on the cost-optimal design of a simplified European power.pdf",
