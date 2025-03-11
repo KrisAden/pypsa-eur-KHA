@@ -36,9 +36,9 @@ The modelled capacities of the energy generation, both renewable and non-renewab
 
 For renewable energy technologies the existing capacity PyPSA-PyPSA calculates installable capacity (for renewable energy expansion) and the capacity factor time series based on land availability as defined by GIS datasets like CORINE, LUISA, Natura 2000, GEBCO and shipping lanes \cite{BuildingElectricityNetworksb}. This is then converted to energy systems data using the atlite library \cite{hofmannAtliteLightweightPython2021}. This conversion requires hourly weather data across europe which is provided by the SARAH-3 dataset for solar radiation data \cite{setchellECMWFReanalysisV52020} and the Era5 dataset for temperature and wind speed data \cite{CMSAFWeb}
 
-As for the installed capacities of the non-renewable technologies, these are compiled from a number of open sources by the Github repository "powerplantmathcing" \cite{PyPSAPowerplantmatching2025}. However, a major feature of the PyPSA workflow is the fact that systems can be allowed to expand and adapt to increases in energy demand over time if it is found to be necessary. Expansion of the existing energy system is evaluated on the basis of being the most cost effective. This neccesitates prices to be annualized over their technical lifetime by:
+As for the installed capacities of the non-renewable technologies, these are compiled from a number of open sources by the Github repository "powerplantmathcing" \cite{PyPSAPowerplantmatching2025}. However, a major feature of the PyPSA workflow is the fact that systems can be allowed to expand and adapt to increases in energy demand over time if it is found to be necessary. Expansion of the existing energy system is evaluated on the basis of being the most cost effective. This necessitates prices to be annualized over their technical lifetime by:
 
  $$
-
+a=\frac{1-(1+r)^{-n}}r
 $$
-
+Here a is the annualized cost, r is the discount rate and n is the technical lifetime. These values are typically found through the Danish energy agency's technology catalogue \cite{TeknologikatalogProduktionAf2024}
