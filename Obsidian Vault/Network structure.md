@@ -37,3 +37,5 @@ The modelled capacities of the energy generation, both renewable and non-renewab
 For renewable energy technologies the existing capacity PyPSA-PyPSA calculates installable capacity (for renewable energy expansion) and the capacity factor time series based on land availability as defined by GIS datasets like CORINE, LUISA, Natura 2000, GEBCO and shipping lanes \cite{BuildingElectricityNetworksb}. This is then converted to energy systems data using the atlite library \cite{hofmannAtliteLightweightPython2021}.
 
 
+
+
