@@ -167,10 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Network analysis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Network analysis"
             }
           },
           {
@@ -194,12 +197,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,7 +217,7 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "3a8256384fd0f53d",
+  "active": "f40d246b05b8522a",
   "lastOpenFiles": [
     "Network analysis outline.md",
     "Network structure.md",
