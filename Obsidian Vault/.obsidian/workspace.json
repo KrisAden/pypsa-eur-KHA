@@ -11,12 +11,14 @@
             "id": "6dd03a145c43197f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "File sources/Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system.pdf"
+                "file": "Network analysis outline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system"
+              "icon": "lucide-file",
+              "title": "Network analysis outline"
             }
           }
         ]
@@ -185,14 +187,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "obsidian-git:Open Git source control": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "6dd03a145c43197f",
   "lastOpenFiles": [
+    "File sources/Horsch and Brown - 2017 - The role of spatial scale in joint optimisations of generation and transmission for European highly.pdf",
+    "File sources/Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system.pdf",
     "File sources/preliminary.ipynb",
     "Untitled.md",
-    "File sources/Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system.pdf",
     "File sources/Misc Files/Video_Cloud_AU_PyPSA_Install.mp4",
     "Network analysis outline.md",
     "File sources/Misc Files/Project proposal.pdf",
@@ -202,7 +206,6 @@
     "File sources/Hofmann m.fl. - 2021 - atlite A Lightweight Python Package for Calculating Renewable Power Potentials and Time Series.pdf",
     "File sources/Schyska m.fl. - 2021 - The sensitivity of power system expansion models 1.pdf",
     "File sources/Schäfer m.fl. - 2017 - Scaling of transmission capacities in coarse-grained renewable electricity networks.pdf",
-    "File sources/Horsch and Brown - 2017 - The role of spatial scale in joint optimisations of generation and transmission for European highly.pdf",
     "Introduction.md",
     "elec_s_37.nc.md",
     "Network construction TT.md",
