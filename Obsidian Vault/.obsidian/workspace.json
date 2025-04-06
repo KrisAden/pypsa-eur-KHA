@@ -33,7 +33,8 @@
               "title": "Supplemental_model_TT"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,10 +205,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6dd03a145c43197f",
+  "active": "89b934cf82fb0300",
   "lastOpenFiles": [
-    "File sources/Supplemental_model_TT.pdf",
     "Network analysis.md",
+    "File sources/Supplemental_model_TT.pdf",
     "File sources/202308 Tim Tørnes Pedersen.pdf",
     "Network analysis outline.md",
     "Notes on network.md",
