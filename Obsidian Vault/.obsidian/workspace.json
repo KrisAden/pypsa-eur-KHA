@@ -33,8 +33,7 @@
               "title": "Supplemental_model_TT"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "89b934cf82fb0300",
+  "active": "6dd03a145c43197f",
   "lastOpenFiles": [
-    "File sources/202308 Tim Tørnes Pedersen.pdf",
+    "File sources/Supplemental_model_TT.pdf",
     "Network analysis.md",
+    "File sources/202308 Tim Tørnes Pedersen.pdf",
     "Network analysis outline.md",
     "Notes on network.md",
     "Network construction TT.md",
@@ -225,12 +225,10 @@
     "Network structure.md",
     "File sources/Hofmann m.fl. - 2021 - atlite A Lightweight Python Package for Calculating Renewable Power Potentials and Time Series.pdf",
     "File sources/Schyska m.fl. - 2021 - The sensitivity of power system expansion models 1.pdf",
-    "File sources/Schäfer m.fl. - 2017 - Scaling of transmission capacities in coarse-grained renewable electricity networks.pdf",
     "Introduction.md",
     "elec_s_37.nc.md",
     "Meeting Summaries/28-02-2025.md",
     "Meeting Summaries/06-02-2025.md",
-    "File sources/Schlott m.fl. - 2019 - The effect of inhomogeneous carbon prices on the cost-optimal design of a simplified European power.pdf",
     "Martha presentation 13-11-24.md",
     "Main page.md",
     "Modelling near optimal solutions.md",
