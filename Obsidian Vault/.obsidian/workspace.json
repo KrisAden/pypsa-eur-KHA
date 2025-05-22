@@ -11,14 +11,12 @@
             "id": "6dd03a145c43197f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Martha presentation 13-11-24.md",
-                "mode": "source",
-                "source": false
+                "file": "File sources/Misc Files/241113_PyPSA3_MartaVictoria_ModernPyPSAapplications.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Martha presentation 13-11-24"
+              "icon": "lucide-file-text",
+              "title": "241113_PyPSA3_MartaVictoria_ModernPyPSAapplications"
             }
           },
           {
@@ -206,6 +204,8 @@
   },
   "active": "6dd03a145c43197f",
   "lastOpenFiles": [
+    "Martha presentation 13-11-24.md",
+    "File sources/Misc Files/241113_PyPSA3_MartaVictoria_ModernPyPSAapplications.pdf",
     "Network structure.md",
     "Notes on network.md",
     "Obsidian tips and tricks.md",
@@ -227,10 +227,8 @@
     "File sources/Misc Files/Project proposal.pdf",
     "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
     "File sources/Hofmann m.fl. - 2021 - atlite A Lightweight Python Package for Calculating Renewable Power Potentials and Time Series.pdf",
-    "File sources/Schyska m.fl. - 2021 - The sensitivity of power system expansion models 1.pdf",
     "Meeting Summaries/28-02-2025.md",
     "Meeting Summaries/06-02-2025.md",
-    "Martha presentation 13-11-24.md",
     "Main page.md",
     "Modelling near optimal solutions.md",
     "LaTEX.md",
