@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "File sources/Supplemental_model_TT.pdf"
+                "file": "File sources/Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Supplemental_model_TT"
+              "title": "Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system"
             }
           }
         ],
@@ -201,14 +201,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "obsidian-git:Open Git source control": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "89b934cf82fb0300",
   "lastOpenFiles": [
-    "Network analysis.md",
-    "File sources/Supplemental_model_TT.pdf",
     "File sources/202308 Tim Tørnes Pedersen.pdf",
+    "File sources/Supplemental_model_TT.pdf",
+    "Network analysis.md",
     "Network analysis outline.md",
     "Notes on network.md",
     "Network construction TT.md",
