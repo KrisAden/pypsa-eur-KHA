@@ -143,3 +143,6 @@ Which was used to construct the Pareto optimal front.
 | Generator        | 406               |
 | StorageUnit      | 48                |
 | Store            | 81                |
+$$
+[ G = \frac{n + 1 - 2 \cdot \frac{\sum_{i=1}^n S_i}{S_n}}{n} ]
+$$
