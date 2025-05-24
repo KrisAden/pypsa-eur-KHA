@@ -11,14 +11,12 @@
             "id": "6dd03a145c43197f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Network structure.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250221094352.png"
               },
-              "icon": "lucide-file",
-              "title": "Network structure"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250221094352"
             }
           },
           {
@@ -206,11 +204,14 @@
   },
   "active": "6dd03a145c43197f",
   "lastOpenFiles": [
+    "Pasted image 20250206135447.png",
+    "Pasted image 20250206135407.png",
+    "Pasted image 20250206130307.png",
+    "Network structure.md",
     "Network analysis outline.md",
     "Network analysis.md",
     "File sources/Misc Files/241113_PyPSA3_MartaVictoria_ModernPyPSAapplications.pdf",
     "Martha presentation 13-11-24.md",
-    "Network structure.md",
     "Notes on network.md",
     "Obsidian tips and tricks.md",
     "Report considarations.md",
@@ -234,9 +235,6 @@
     "Main page.md",
     "Modelling near optimal solutions.md",
     "LaTEX.md",
-    "Pasted image 20250206135447.png",
-    "Pasted image 20250206135407.png",
-    "Pasted image 20250206130307.png",
     "PyPSA-Eur Documentation/PyPSA-EUR.md",
     "PyPSA-Eur Documentation/Configuration.md",
     "PyPSA-Eur Documentation/Snakemake.md",
