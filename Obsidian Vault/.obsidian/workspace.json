@@ -11,12 +11,14 @@
             "id": "6dd03a145c43197f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250221094352.png"
+                "file": "Network structure.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250221094352"
+              "icon": "lucide-file",
+              "title": "Network structure"
             }
           },
           {
@@ -204,9 +206,10 @@
   },
   "active": "6dd03a145c43197f",
   "lastOpenFiles": [
-    "Pasted image 20250206135447.png",
-    "Pasted image 20250206135407.png",
     "Pasted image 20250206130307.png",
+    "Pasted image 20250206135407.png",
+    "Pasted image 20250206135447.png",
+    "Pasted image 20250221094352.png",
     "Network structure.md",
     "Network analysis outline.md",
     "Network analysis.md",
@@ -223,7 +226,6 @@
     "File sources/Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system.pdf",
     "File sources/202308 Tim Tørnes Pedersen.pdf",
     "File sources/Supplemental_model_TT.pdf",
-    "Pasted image 20250221094352.png",
     "File sources/Horsch and Brown - 2017 - The role of spatial scale in joint optimisations of generation and transmission for European highly.pdf",
     "File sources/preliminary.ipynb",
     "File sources/Misc Files/Video_Cloud_AU_PyPSA_Install.mp4",
