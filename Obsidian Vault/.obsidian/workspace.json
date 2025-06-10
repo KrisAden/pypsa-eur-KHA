@@ -27,13 +27,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "File sources/Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system.pdf"
+                "file": "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system"
+              "title": "Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,43 +201,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "obsidian-git:Open Git source control": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6dd03a145c43197f",
+  "active": "89b934cf82fb0300",
   "lastOpenFiles": [
-    "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf",
     "Martha presentation 13-11-24.md",
+    "File sources/Misc Files/241113_PyPSA3_MartaVictoria_ModernPyPSAapplications.pdf",
+    "Network analysis.md",
+    "Main page.md",
+    "LaTEX.md",
+    "Introduction.md",
+    "GitHub.md",
+    "elec_s_37.nc.md",
+    "Coding.md",
+    "Cluster usage.md",
+    "File sources/Victoria m.fl. - 2019 - The role of storage technologies throughout the decarbonisation of the sector-coupled European energ.pdf",
+    "File sources/Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system.pdf",
+    "File sources/Pedersen m.fl. - 2021 - Modeling all alternative solutions for highly renewable energy systems.pdf",
     "Network structure.md",
     "Pasted image 20250206130307.png",
     "Pasted image 20250206135407.png",
     "Pasted image 20250206135447.png",
     "Pasted image 20250221094352.png",
     "Network analysis outline.md",
-    "Network analysis.md",
-    "File sources/Misc Files/241113_PyPSA3_MartaVictoria_ModernPyPSAapplications.pdf",
     "Notes on network.md",
     "Obsidian tips and tricks.md",
     "Report considarations.md",
     "Untitled.md",
-    "Introduction.md",
-    "GitHub.md",
-    "elec_s_37.nc.md",
     "Network construction TT.md",
-    "File sources/Eriksen m.fl. - 2017 - Optimal heterogeneity in a simplified highly renewable European electricity system.pdf",
     "File sources/202308 Tim Tørnes Pedersen.pdf",
     "File sources/Supplemental_model_TT.pdf",
     "File sources/Horsch and Brown - 2017 - The role of spatial scale in joint optimisations of generation and transmission for European highly.pdf",
     "File sources/preliminary.ipynb",
     "File sources/Misc Files/Video_Cloud_AU_PyPSA_Install.mp4",
     "File sources/Misc Files/Project proposal.pdf",
-    "File sources/Pedersen m.fl. - 2023 - Using Modeling All Alternatives to explore 55% decarbonization scenarios of the European electricity.pdf",
-    "File sources/Hofmann m.fl. - 2021 - atlite A Lightweight Python Package for Calculating Renewable Power Potentials and Time Series.pdf",
     "Meeting Summaries/28-02-2025.md",
     "Meeting Summaries/06-02-2025.md",
-    "Main page.md",
     "Modelling near optimal solutions.md",
-    "LaTEX.md",
     "PyPSA-Eur Documentation/PyPSA-EUR.md",
     "PyPSA-Eur Documentation/Configuration.md",
     "PyPSA-Eur Documentation/Snakemake.md",
@@ -249,8 +252,6 @@
     "File sources/Pasted image 20250110133220.png",
     "File sources/Pasted image 20250110133155.png",
     "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_renewable_profiles technology_offwind_ac.md",
-    "PyPSA-Eur Documentation/PYPSA-EUR workflow/build_renewable_profiles technology_solar.md",
-    "PyPSA-Eur Documentation/PYPSA-EUR workflow/prepare_links_p_nom.md",
     "PYPSA-EUR workflow.canvas",
     "Title.canvas"
   ]
